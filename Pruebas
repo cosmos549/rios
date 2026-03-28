@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO
+https://el4live2.boldmss.com/HBO/HBO_EL4.isml/manifest
+
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO 2
+https://el4live2.boldmss.com/HBO_2/HBO_2_EL4.isml/manifest
+
+#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="HBO",HBO Plus
+https://el4live2.boldmss.com/HBOPLUS/HBOPLUS_EL4.isml/manifest
+
+#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="HBO",HBO Family
+https://el4live1.boldmss.com/HBO_FAMILY/HBO_FAMILY_EL4.isml/manifest
+
+#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO Signature
+https://el4live2.boldmss.com/HBO_SIGNATURE/HBO_SIGNATURE_EL4.isml/manifest
+
+#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO Xtreme
+https://el4live2.boldmss.com/HBO_EXTREME/HBO_EXTREME_EL4.isml/manifest
+
+#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="HBO Mundi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO Mundi
+https://el4live2.boldmss.com/HBO_MUNDI/HBO_MUNDI_EL4.isml/manifest
+
+#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO Pop
+https://el4live2.boldmss.com/HBO_POP/HBO_POP_EL4.isml/manifest
