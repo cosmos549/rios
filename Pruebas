@@ -72,11 +72,17 @@ http://185.56.109.253/Discovery/playlist.m3u8
 #EXTINF:-1 tvg-id="history" group-title="500 | Documentales",502 History
 http://185.56.109.253/History/playlist.m3u8
 
+#EXTINF:-1 tvg-id="history" group-title="500 | Documentales",502 History FHD
+http://45.238.30.42:5050/play/a023/index.m3u8
+
 #EXTINF:-1 tvg-id="history2" group-title="500 | Documentales",503 History 2
 http://185.56.109.253/History2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="animalplanet" group-title="500 | Documentales",504 Animal Planet
 http://185.56.109.253/AnimalPlanet/playlist.m3u8
+
+#EXTINF:-1 tvg-id="lovenature.4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Love_Nature_logo.svg" group-title="500 | Documentales",505 Love Nature 4K
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 
 ############################
 # 👶 600 - INFANTIL
@@ -114,11 +120,17 @@ http://176.65.146.99:8401/play/a099/index.m3u8
 #EXTINF:-1 tvg-id="la1.es" group-title="800 | España",805 La 1 UHD
 http://176.65.146.99:8401/play/a094/index.m3u8
 
+#EXTINF:-1 tvg-id="etb1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/ETB1_logo.svg" group-title="800 | España",806 ETB1 HD
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+
 ############################
 # 📰 900 - NOTICIAS
 ############################
 #EXTINF:-1 tvg-id="dw.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/DW_logo.svg" group-title="900 | Noticias",901 DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+
+#EXTINF:-1 tvg-id="rt.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia_Today_logo.svg" group-title="900 | Noticias",906 RT Español
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="france24.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo.svg" group-title="900 | Noticias",902 France 24 Español
 
@@ -131,3 +143,190 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="tvpublica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/TV_Publica_logo.svg" group-title="850 | Argentina",851 TV Pública
 
 #EXTINF:-1 tvg-id="elnueve.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/El_Nueve_logo.svg" group-title="850 | Argentina",852 El Nueve
+
+
+
+
+
+
+#EXTM3U
+
+########################
+# DEPORTES
+########################
+
+#EXTINF:-1 group-title="latam",ESPN PREMIUM
+https://latam-cache-sv2-cdn.latamlive.net/ESPNPREMIUM_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",ESPN 1
+https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",ESPN 2
+https://latam-cache-sv2-cdn.latamlive.net/ESPN2_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",ESPN 3
+https://latam-cache-sv2-cdn.latamlive.net/ESPN3_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",ESPN 4
+https://latam-cache-sv2-cdn.latamlive.net/ESPN4_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",FOX SPORTS
+https://latam-cache-sv2-cdn.latamlive.net/FOX_SPORTS_HD_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",FOX SPORTS 2
+https://latam-cache-sv2-cdn.latamlive.net/FOX_SPORTS2_HD_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",FOX SPORTS 3
+https://latam-cache-sv2-cdn.latamlive.net/FOX_SPORTS3_HD_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",TYC SPORTS
+https://latam-cache-sv2-cdn.latamlive.net/TYC_SPORTS_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",BEIN SPORTS
+https://latam-cache-sv2-cdn.latamlive.net/BEINSPORTSN_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",SKY SPORTS
+https://latam-cache-sv2-cdn.latamlive.net/SKY_SPORTS_HD_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",L1 MAX
+https://latam-cache-sv2-cdn.latamlive.net/L1MAX_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",DS1
+https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",DS PLUS
+https://latam-cache-sv2-cdn.latamlive.net/DSPLUS_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",EVENTOS F1
+https://latam-cache-sv2-cdn.latamlive.net/EVENTOSFL1_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",DSN EVENT 1
+https://latam-cache-sv2-cdn.latamlive.net/DSN_EVENT_CH1_IP_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",DSN EVENT 2
+https://latam-cache-sv2-cdn.latamlive.net/DSN_EVENT_CH2_IP_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",DSN EVENT 3
+https://latam-cache-sv2-cdn.latamlive.net/DSN_EVENT_CH3_IP_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",DSN EVENT 4
+https://latam-cache-sv2-cdn.latamlive.net/DSN_EVENT_CH4_IP_ENC_LIVE/index.mpd
+
+
+########################
+# CINE / PELÍCULAS
+########################
+
+#EXTINF:-1 group-title="latam",HBO
+https://latam-cache-sv2-cdn.latamlive.net/HBO_HD_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",HBO 2
+https://latam-cache-sv2-cdn.latamlive.net/HBO2_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",HBO FAMILY
+https://latam-cache-sv2-cdn.latamlive.net/HBO_FAMILY_HD_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",HBO XTREME
+https://latam-cache-sv2-cdn.latamlive.net/HBO_XTREME_HD_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",HBO MUNDI
+https://latam-cache-sv2-cdn.latamlive.net/HBO_MUNDI_HD_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",HBO SIGNATURE
+https://latam-cache-sv2-cdn.latamlive.net/HBO_SIGNATURE_AR_HD_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",HBO PLUS
+https://latam-cache-sv2-cdn.latamlive.net/HBO_PLUS_HD_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",HBO POP
+https://latam-cache-sv2-cdn.latamlive.net/HBO_POP_AR_HD_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",U CINEMA
+https://latam-cache-sv2-cdn.latamlive.net/UCINEMA_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",TNT
+http://latam-cache-sv2-cdn.latamlive.net/TNT_ENC_LIVE/index.mpd
+
+
+########################
+# ENTRETENIMIENTO
+########################
+
+#EXTINF:-1 group-title="latam",SONY CHANNEL
+http://latam-cache-sv2-cdn.latamlive.net/SONY_CHANNEL_IP_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",FX
+http://latam-cache-sv2-cdn.latamlive.net/FX_IP_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",HOME & HEALTH
+http://latam-cache-sv2-cdn.latamlive.net/HOMEANDHEALTH_IP_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",HOME & GARDEN TV
+http://latam-cache-sv2-cdn.latamlive.net/HOMEGARDENTV_ARG_IP_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",U CHANNEL
+http://latam-cache-sv2-cdn.latamlive.net/UCHANNEL_IP_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",U REALITY
+https://latam-cache-sv2-cdn.latamlive.net/UREALITY_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",U COMEDY
+https://latam-cache-sv2-cdn.latamlive.net/UCOMEDY_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",U CRIME
+https://latam-cache-sv2-cdn.latamlive.net/UCRIME_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",U PREMIERE
+https://latam-cache-sv2-cdn.latamlive.net/UPREMIERE_ENC_LIVE/index.mpd
+
+
+########################
+# NOTICIAS
+########################
+
+#EXTINF:-1 group-title="latam",TN
+https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",A24
+http://latam-cache-sv2-cdn.latamlive.net/A24_ARG_IP_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",CRONICA TV
+http://latam-cache-sv2-cdn.latamlive.net/CRONICA_TV_ARG_IP_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",LA NACION MAS
+http://latam-cache-sv2-cdn.latamlive.net/LANACIONMAS_IP_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",C5N
+http://latam-cache-sv2-cdn.latamlive.net/C5N_AR_IP_ENC_LIVE/index.mpd
+
+
+########################
+# TV GENERAL
+########################
+
+#EXTINF:-1 group-title="latam",TELEFE
+https://latam-cache-sv2-cdn.latamlive.net/TELEFE_AR_IP_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",CANAL 13
+http://latam-cache-sv2-cdn.latamlive.net/CANAL_13_HD_IP_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",TV PUBLICA
+http://latam-cache-sv2-cdn.latamlive.net/TV_PUBLICA_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",EL NUEVE
+http://latam-cache-sv2-cdn.latamlive.net/EL_NUEVE_HD_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",AMERICA TV
+http://latam-cache-sv2-cdn.latamlive.net/AMERICA_AR_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",CARACOL
+https://latam-cache-sv2-cdn.latamlive.net/CARACOL_IP_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",RCN
+https://latam-cache-sv2-cdn.latamlive.net/RCN_IP_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",RCN NOVELAS
+https://latam-cache-sv2-cdn.latamlive.net/RCN_NOVELAS_SAT_ENC_LIVE/index.mpd
+
+#EXTINF:-1 group-title="latam",ETC
+https://latam-cache-sv2-cdn.latamlive.net/ETC_SD_SAT_ENC_LIVE/index.mpd
