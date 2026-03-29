@@ -1,25 +1,103 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/latam.xml,https://iptv-org.github.io/epg/guides/es.xml,https://iptv-org.github.io/epg/guides/us.xml"
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO
+############################
+# 🎬 100 - HBO (HD)
+############################
+#EXTINF:-1 tvg-id="hbo.es" group-title="100 | HBO HD",101 HBO HD
 https://el4live2.boldmss.com/HBO/HBO_EL4.isml/manifest
 
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO 2
+#EXTINF:-1 tvg-id="hbo2.es" group-title="100 | HBO HD",102 HBO 2 HD
 https://el4live2.boldmss.com/HBO_2/HBO_2_EL4.isml/manifest
 
-#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="HBO",HBO Plus
+#EXTINF:-1 tvg-id="hboplus.es" group-title="100 | HBO HD",103 HBO Plus HD
 https://el4live2.boldmss.com/HBOPLUS/HBOPLUS_EL4.isml/manifest
 
-#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="HBO",HBO Family
+#EXTINF:-1 tvg-id="hbofamily.es" group-title="100 | HBO HD",104 HBO Family HD
 https://el4live1.boldmss.com/HBO_FAMILY/HBO_FAMILY_EL4.isml/manifest
 
-#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO Signature
-https://el4live2.boldmss.com/HBO_SIGNATURE/HBO_SIGNATURE_EL4.isml/manifest
+############################
+# ⚽ 200 - DEPORTES (HD)
+############################
+#EXTINF:-1 tvg-id="foxsports" group-title="200 | Deportes HD",201 Fox Sports HD
+http://185.56.109.251/FoxSport/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO Xtreme
-https://el4live2.boldmss.com/HBO_EXTREME/HBO_EXTREME_EL4.isml/manifest
+#EXTINF:-1 tvg-id="foxsports2" group-title="200 | Deportes HD",202 Fox Sports 2 HD
+http://185.56.109.251/FoxSport2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="HBO Mundi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO Mundi
-https://el4live2.boldmss.com/HBO_MUNDI/HBO_MUNDI_EL4.isml/manifest
+#EXTINF:-1 tvg-id="foxsports3" group-title="200 | Deportes HD",203 Fox Sports 3 HD
+http://185.56.109.251/FoxSport3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO Pop
-https://el4live2.boldmss.com/HBO_POP/HBO_POP_EL4.isml/manifest
+#EXTINF:-1 tvg-id="tudn" group-title="200 | Deportes HD",204 TUDN HD
+http://185.56.109.251/Tudn/playlist.m3u8
+
+############################
+# 🎭 300 - SERIES (HD)
+############################
+#EXTINF:-1 tvg-id="warner" group-title="300 | Series HD",301 Warner HD
+http://185.56.109.251/warner/playlist.m3u8
+
+#EXTINF:-1 tvg-id="universal" group-title="300 | Series HD",302 Universal HD
+http://185.56.109.251/UniversalChannel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="axn" group-title="300 | Series HD",303 AXN HD
+http://185.56.109.253/Axn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sony" group-title="300 | Series HD",304 Sony HD
+http://185.56.109.253/Sony/playlist.m3u8
+
+############################
+# 🎬 400 - PELÍCULAS
+############################
+#EXTINF:-1 tvg-id="sonymovies" group-title="400 | Películas",401 Sony Movies
+http://185.56.109.253/SonyMovies/playlist.m3u8
+
+############################
+# 📚 500 - DOCUMENTALES
+############################
+#EXTINF:-1 tvg-id="discovery" group-title="500 | Documentales",501 Discovery
+http://185.56.109.253/Discovery/playlist.m3u8
+
+#EXTINF:-1 tvg-id="history" group-title="500 | Documentales",502 History
+http://185.56.109.253/History/playlist.m3u8
+
+#EXTINF:-1 tvg-id="history2" group-title="500 | Documentales",503 History 2
+http://185.56.109.253/History2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="animalplanet" group-title="500 | Documentales",504 Animal Planet
+http://185.56.109.253/AnimalPlanet/playlist.m3u8
+
+############################
+# 👶 600 - INFANTIL
+############################
+#EXTINF:-1 tvg-id="discoverykids" group-title="600 | Infantil",601 Discovery Kids
+http://185.56.109.253/DiscoveryKids/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dreamworks" group-title="600 | Infantil",602 DreamWorks
+http://185.56.109.251/Dreamworks/playlist.m3u8
+
+############################
+# 🍔 700 - ENTRETENIMIENTO
+############################
+#EXTINF:-1 tvg-id="tlc" group-title="700 | Entretenimiento",701 TLC
+http://185.56.109.253/Tlc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="foodnetwork" group-title="700 | Entretenimiento",702 Food Network
+http://185.56.109.253/FoodNetwork/playlist.m3u8
+
+############################
+# 🌍 800 - ESPAÑA
+############################
+#EXTINF:-1 tvg-id="antena3.es" group-title="800 | España",801 Antena 3
+http://176.65.146.99:8401/play/a09a/index.m3u8
+
+#EXTINF:-1 tvg-id="telecinco.es" group-title="800 | España",802 Telecinco
+http://176.65.146.99:8401/play/a098/index.m3u8
+
+#EXTINF:-1 tvg-id="lasexta.es" group-title="800 | España",803 La Sexta
+http://176.65.146.99:8401/play/a09b/index.m3u8
+
+#EXTINF:-1 tvg-id="cuatro.es" group-title="800 | España",804 Cuatro
+http://176.65.146.99:8401/play/a099/index.m3u8
+
+#EXTINF:-1 tvg-id="la1.es" group-title="800 | España",805 La 1
+http://176.65.146.99:8401/play/a094/index.m3u8
