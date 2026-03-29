@@ -15,6 +15,18 @@ https://el4live2.boldmss.com/HBOPLUS/HBOPLUS_EL4.isml/manifest
 #EXTINF:-1 tvg-id="hbofamily.es" group-title="100 | HBO HD",104 HBO Family HD
 https://el4live1.boldmss.com/HBO_FAMILY/HBO_FAMILY_EL4.isml/manifest
 
+#EXTINF:-1 tvg-id="hbosignature.es" group-title="100 | HBO HD",105 HBO Signature HD
+https://el4live2.boldmss.com/HBO_SIGNATURE/HBO_SIGNATURE_EL4.isml/manifest
+
+#EXTINF:-1 tvg-id="hboxtreme.es" group-title="100 | HBO HD",106 HBO Xtreme HD
+https://el4live2.boldmss.com/HBO_EXTREME/HBO_EXTREME_EL4.isml/manifest
+
+#EXTINF:-1 tvg-id="hbomundi.es" group-title="100 | HBO HD",107 HBO Mundi HD
+https://el4live2.boldmss.com/HBO_MUNDI/HBO_MUNDI_EL4.isml/manifest
+
+#EXTINF:-1 tvg-id="hbopop.es" group-title="100 | HBO HD",108 HBO Pop HD
+https://el4live2.boldmss.com/HBO_POP/HBO_POP_EL4.isml/manifest
+
 ############################
 # ⚽ 200 - DEPORTES (HD)
 ############################
@@ -99,5 +111,23 @@ http://176.65.146.99:8401/play/a09b/index.m3u8
 #EXTINF:-1 tvg-id="cuatro.es" group-title="800 | España",804 Cuatro
 http://176.65.146.99:8401/play/a099/index.m3u8
 
-#EXTINF:-1 tvg-id="la1.es" group-title="800 | España",805 La 1
+#EXTINF:-1 tvg-id="la1.es" group-title="800 | España",805 La 1 UHD
 http://176.65.146.99:8401/play/a094/index.m3u8
+
+############################
+# 📰 900 - NOTICIAS
+############################
+#EXTINF:-1 tvg-id="dw.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/DW_logo.svg" group-title="900 | Noticias",901 DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+
+#EXTINF:-1 tvg-id="france24.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo.svg" group-title="900 | Noticias",902 France 24 Español
+
+#EXTINF:-1 tvg-id="c5n.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/C5N_logo.svg" group-title="900 | Noticias",903 C5N
+
+#EXTINF:-1 tvg-id="cronica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Cronica_TV_logo.svg" group-title="900 | Noticias",904 Crónica TV
+
+#EXTINF:-1 tvg-id="lnplus.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/La_Nacion_Mas_logo.svg" group-title="900 | Noticias",905 La Nación+
+
+#EXTINF:-1 tvg-id="tvpublica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/TV_Publica_logo.svg" group-title="850 | Argentina",851 TV Pública
+
+#EXTINF:-1 tvg-id="elnueve.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/El_Nueve_logo.svg" group-title="850 | Argentina",852 El Nueve
