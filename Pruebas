@@ -63,6 +63,9 @@ http://185.56.109.253/Sony/playlist.m3u8
 #EXTINF:-1 tvg-id="sonymovies" group-title="400 | Películas",401 Sony Movies
 http://185.56.109.253/SonyMovies/playlist.m3u8
 
+#EXTINF:-1 tvg-id="filmartstv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Film_%26_Arts_logo.png" group-title="400 | Películas y Series",407 Film&Arts
+http://45.5.116.177:8015/play/a0gs/index.m3u8
+
 ############################
 # 📚 500 - DOCUMENTALES
 ############################
@@ -83,6 +86,9 @@ http://185.56.109.253/AnimalPlanet/playlist.m3u8
 
 #EXTINF:-1 tvg-id="lovenature.4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Love_Nature_logo.svg" group-title="500 | Documentales",505 Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+
+#EXTINF:-1 tvg-id="NASA4K" tvg-name="NASA TV UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="Ciencia",NASA TV 4K
+https://endpnt.com/hls/nasa4k/playlist.m3u8
 
 ############################
 # 👶 600 - INFANTIL
@@ -212,7 +218,17 @@ https://latam-cache-sv2-cdn.latamlive.net/DSN_EVENT_CH3_IP_ENC_LIVE/index.mpd
 #EXTINF:-1 group-title="latam",DSN EVENT 4
 https://latam-cache-sv2-cdn.latamlive.net/DSN_EVENT_CH4_IP_ENC_LIVE/index.mpd
 
+#EXTINF:-1 tvg-id="DSPORTS" tvg-name="DSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Dsports_logo.png" group-title="Deportes",DSPORTS
+http://167.17.67.240:8888/DSPORTS/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="DSPORTS2" tvg-name="DSPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Dsports_logo.png" group-title="Deportes",DSPORTS 2
+http://167.17.67.240:8888/dsport2colombia/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DSPORTSPLUS" tvg-name="DSPORTS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Dsports_logo.png" group-title="Deportes",DSPORTS +
+http://167.17.67.240:8888/Dsportsmas/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DSPORTSPLUS" tvg-name="DSPORTS+ (DASH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Dsports_logo.png" group-title="Deportes",DSPORTS + (DASH)
+http://latam-cache-sv2-cdn.latamlive.net/DSPLUS_ENC_LIVE/index.mpd
 ########################
 # CINE / PELÍCULAS
 ########################
