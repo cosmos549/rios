@@ -63,8 +63,17 @@ http://185.56.109.253/Sony/playlist.m3u8
 #EXTINF:-1 tvg-id="sonymovies" group-title="400 | Películas",401 Sony Movies
 http://185.56.109.253/SonyMovies/playlist.m3u8
 
-#EXTINF:-1 tvg-id="filmartstv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Film_%26_Arts_logo.png" group-title="400 | Películas y Series",407 Film&Arts
+#EXTINF:-1 tvg-id="filmartstv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Film_%26_Arts_logo.png" group-title="400 | Películas",407 Film&Arts
 http://45.5.116.177:8015/play/a0gs/index.m3u8
+
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/TCM_logo.svg" group-title="Películas",402 TCM
+http://45.177.21.6:9000/play/a01r
+
+#EXTINF:-1 tvg-id="DHE" tvg-name="DHE" tvg-logo="https://via.placeholder.com/300x150?text=DHE" group-title="Películas",403 DHE
+http://45.177.21.6:9000/play/a01e
+
+#EXTINF:-1 tvg-id="WESTERN" tvg-name="Western" tvg-logo="https://via.placeholder.com/300x150?text=Western" group-title="Películas", 404 Western
+http://45.177.21.6:9000/play/a02h
 
 ############################
 # 📚 500 - DOCUMENTALES
@@ -108,6 +117,12 @@ http://185.56.109.253/Tlc/playlist.m3u8
 #EXTINF:-1 tvg-id="foodnetwork" group-title="700 | Entretenimiento",702 Food Network
 http://185.56.109.253/FoodNetwork/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FMHFAMILY" tvg-name="FMH Family" tvg-logo="https://via.placeholder.com/300x150?text=FMH+Family" group-title="Entretenimiento", 703 FMH Family
+http://45.177.21.6:9000/play/a02z
+
+#EXTINF:-1 tvg-id="TLNOVELAS" tvg-name="tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Tlnovelas_logo.png" group-title="Entretenimiento",704 tlnovelas
+http://45.177.21.6:9000/play/a00e
+
 ############################
 # 🌍 800 - ESPAÑA
 ############################
@@ -128,6 +143,9 @@ http://176.65.146.99:8401/play/a094/index.m3u8
 
 #EXTINF:-1 tvg-id="etb1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/ETB1_logo.svg" group-title="800 | España",806 ETB1 HD
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="STARTVE" tvg-name="Star TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/TVE_Internacional_Logo_2015.png" group-title="800 | España",Star TVE
+http://45.177.21.6:9000/play/a01d
 
 ############################
 # 📰 900 - NOTICIAS
