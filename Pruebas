@@ -364,3 +364,154 @@ https://latam-cache-sv2-cdn.latamlive.net/RCN_NOVELAS_SAT_ENC_LIVE/index.mpd
 
 #EXTINF:-1 group-title="latam",ETC
 https://latam-cache-sv2-cdn.latamlive.net/ETC_SD_SAT_ENC_LIVE/index.mpd
+
+
+
+###############lista 2#########################
+
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+
+#EXTINF:-1 tvg-id="A&E" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",A&E
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/5.m3u8
+#EXTINF:-1 tvg-id="A24" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",A24
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8
+#EXTINF:-1 tvg-id="ABC TV" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",ABC TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
+#EXTINF:-1 tvg-id="Adult Swim" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Adult Swim
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/8.m3u8
+#EXTINF:-1 tvg-id="AMC" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",AMC
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/42.m3u8
+#EXTINF:-1 tvg-id="America Paraguay" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",America Paraguay
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
+#EXTINF:-1 tvg-id="AXN" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",AXN
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
+#EXTINF:-1 tvg-id="BabyTV" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",BabyTV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/11.m3u8
+#EXTINF:-1 tvg-id="Band Brasil" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Band Brasil
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/77.m3u8
+#EXTINF:-1 tvg-id="C9N" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",C9N
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1443.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Cartoon Network
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/115.m3u8
+#EXTINF:-1 tvg-id="Cartoonito" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Cartoonito
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/70.m3u8
+#EXTINF:-1 tvg-id="Cinecanal" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Cinecanal
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8
+#EXTINF:-1 tvg-id="Comedy Central" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Comedy Central
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/87.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Discovery Channel
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
+#EXTINF:-1 tvg-id="Disney Jr" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Disney Jr
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/114.m3u8
+#EXTINF:-1 tvg-id="DW" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",DW
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/102.m3u8
+#EXTINF:-1 tvg-id="El Trece" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",El Trece
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
+#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",ESPN
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
+#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",ESPN 2
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/88.m3u8
+#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",ESPN 3
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/90.m3u8
+#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",ESPN 4
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/91.m3u8
+#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",ESPN 5
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/92.m3u8
+#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",ESPN 6
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
+#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",ESPN 7
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/26.m3u8
+#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",ESPN Premium
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
+#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",HBO
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/32.m3u8
+#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",HBO 2
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/30.m3u8
+#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",HBO Family
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/31.m3u8
+#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",HBO Plus
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/36.m3u8
+#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",HBO Signature
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/34.m3u8
+#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",HBO Xtreme
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/35.m3u8
+#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",HBO Mundi
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/33.m3u8
+#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Universal Cinema
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/61.m3u8
+#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Universal Comedy
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/62.m3u8
+#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Universal Crime
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/63.m3u8
+#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Universal Premiere
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/64.m3u8
+#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Universal Plus
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/65.m3u8
+#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Universal Studio
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8
+#EXTINF:-1 tvg-id="History" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",History
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
+#EXTINF:-1 tvg-id="Nat Geo" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Nat Geo
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/45.m3u8
+#EXTINF:-1 tvg-id="Sony Channel" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Sony Channel
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/49.m3u8
+#EXTINF:-1 tvg-id="Space" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Space
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/50.m3u8
+#EXTINF:-1 tvg-id="Star Channel" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Star Channel
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
+#EXTINF:-1 tvg-id="Telefe" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Telefe
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/81.m3u8
+#EXTINF:-1 tvg-id="Telemundo" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Telemundo
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/54.m3u8
+#EXTINF:-1 tvg-id="TNT" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",TNT
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/56.m3u8
+#EXTINF:-1 tvg-id="TNT Sports" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",TNT Sports
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
+#EXTINF:-1 tvg-id="Warner TV" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Warner TV
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="EVENTO 1 HD" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png" group-title="OTTNAVIGATOR",EVENTO 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+
+#EXTINF:-1 tvg-name="EVENTOS PLUS HD" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png" group-title="OTTNAVIGATOR",EVENTOS PLUS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7
+https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
+
+#EXTINF:-1 tvg-name="EVENTOS 3 HD" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png" group-title="OTTNAVIGATOR",EVENTOS 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://magisvideo.com/KEYFLOW/TIGO3.json
+https://sam-py-edge05.tigo.com.py/ccur-session/b0ff0175ef73e3239d6ec1a7441c501e&cfi=JVMDxRwC4M6u54XZGwnSrlZY/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="DIRECTV SPORTS" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="OTTNAVIGATOR",DIRECTV SPORTS
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTVLCOPT:http-header=X-App=di
+#EXTVLCOPT:http-header=X-Hash=bUWouF9zufxct3TJup7TsoyFf2zgQPqJd4LrPeyBFYXilmggTal3UZh1jLN_azi0CZ4xnxxXEz3oBUWMrFVn0hOiNK2BFYyOY6DhECJ_svjRqijqN0ln9S13O5oMn7259nDnBfR_gZV59Keox1EOWWXjlqQkxpDz4Utx1Y23JZkNmI_XDUVqmy3ln1hqP_FiYH_KkWqpXxaWFoBQP-IMUsGfA0oUeRnuCkaXN938mZWuwtOYKJ3UyEUdVhcWNRn21XGMZgenR-2mBrBe_uxwUmY5m8oLURUTHV6C9NepWW4m5S4YQj1WxbEo5z88ZIgbnH7eEmaxPZEgt_m8FA8lPaBcyd3yv5_mSQatdJS-1BgzQlz3gikc3WZKulllol53Xzdlu_gm1oDtcvMO_1xzLkBO8VTW6PXfk122ug5TfaZf0ExhqNNZE4epYomJOItALMFEkRfpivDHGX3N5xfa0QVVmDlXzbUgPVAFdwC-OAUbkOa4WelUTrsvVvLFdW0T50-wdoKWGMCCnur7fZp5Rw
+#EXTVLCOPT:http-header=X-Version=10/1.0.9
+#EXTVLCOPT:http-header=X-Did=ab633f575ddff7bb
+http://tv.m3uts.xyz/stream/secure/ZGLjKmZkZy8kZmthAGxhZwV2YwtmKmR3AmH2BQHlAQusLJV2ZmAzAGp1MTEzMwqvLy8j/312.m3u8
+
+#EXTINF:-1 tvg-name="DIRECTV SPORTS 2" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="OTTNAVIGATOR",DIRECTV SPORTS 2
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTVLCOPT:http-header=X-App=di
+#EXTVLCOPT:http-header=X-Hash=bUWouF9zufxct3TJup7TsoyFf2zgQPqJd4LrPeyBFYXilmggTal3UZh1jLN_azi0CZ4xnxxXEz3oBUWMrFVn0hOiNK2BFYyOY6DhECJ_svjRqijqN0ln9S13O5oMn7259nDnBfR_gZV59Keox1EOWWXjlqQkxpDz4Utx1Y23JZkNmI_XDUVqmy3ln1hqP_FiYH_KkWqpXxaWFoBQP-IMUsGfA0oUeRnuCkaXN938mZWuwtOYKJ3UyEUdVhcWNRn21XGMZgenR-2mBrBe_uxwUmY5m8oLURUTHV6C9NepWW4m5S4YQj1WxbEo5z88ZIgbnH7eEmaxPZEgt_m8FA8lPaBcyd3yv5_mSQatdJS-1BgzQlz3gikc3WZKulllol53Xzdlu_gm1oDtcvMO_1xzLkBO8VTW6PXfk122ug5TfaZf0ExhqNNZE4epYomJOItALMFEkRfpivDHGX3N5xfa0QVVmDlXzbUgPVAFdwC-OAUbkOa4WelUTrsvVvLFdW0T50-wdoKWGMCCnur7fZp5Rw
+#EXTVLCOPT:http-header=X-Version=10/1.0.9
+#EXTVLCOPT:http-header=X-Did=ab633f575ddff7bb
+http://tv.m3uts.xyz/stream/secure/AmHjKmZkA18kZmthAGxhZwV2YwtmKmR3AmH2BQH0AmIsLJV2ZmAzAGp1MTEzMwqvLy8j/317.m3u8
+
+#EXTINF:-1 tvg-name="DIRECTV SPORTS PLUS" tvg-logo="https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png" group-title="OTTNAVIGATOR",DIRECTV SPORTS PLUS
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTVLCOPT:http-header=X-App=di
+#EXTVLCOPT:http-header=X-Hash=bUWouF9zufxct3TJup7TsoyFf2zgQPqJd4LrPeyBFYXilmggTal3UZh1jLN_azi0CZ4xnxxXEz3oBUWMrFVn0hOiNK2BFYyOY6DhECJ_svjRqijqN0ln9S13O5oMn7259nDnBfR_gZV59Keox1EOWWXjlqQkxpDz4Utx1Y23JZkNmI_XDUVqmy3ln1hqP_FiYH_KkWqpXxaWFoBQP-IMUsGfA0oUeRnuCkaXN938mZWuwtOYKJ3UyEUdVhcWNRn21XGMZgenR-2mBrBe_uxwUmY5m8oLURUTHV6C9NepWW4m5S4YQj1WxbEo5z88ZIgbnH7eEmaxPZEgt_m8FA8lPaBcyd3yv5_mSQatdJS-1BgzQlz3gikc3WZKulllol53Xzdlu_gm1oDtcvMO_1xzLkBO8VTW6PXfk122ug5TfaZf0ExhqNNZE4epYomJOItALMFEkRfpivDHGX3N5xfa0QVVmDlXzbUgPVAFdwC-OAUbkOa4WelUTrsvVvLFdW0T50-wdoKWGMCCnur7fZp5Rw
+#EXTVLCOPT:http-header=X-Version=10/1.0.9
+#EXTVLCOPT:http-header=X-Did=ab633f575ddff7bb
+http://tv.m3uts.xyz/stream/secure/ZGN3KmZkAS8kZmthAGxhZwV2YwtmKmR3AmH2BQH0ZGSsLJV2ZmAzAGp1MTEzMwqvLy8j/314.m3u8
+
+
+
