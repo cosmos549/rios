@@ -157,6 +157,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="france24.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo.svg" group-title="900 | Noticias",902 France 24 Español
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8
 
 #EXTINF:-1 tvg-id="c5n.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/C5N_logo.svg" group-title="900 | Noticias",903 C5N
 
@@ -236,17 +237,9 @@ https://latam-cache-sv2-cdn.latamlive.net/DSN_EVENT_CH3_IP_ENC_LIVE/index.mpd
 #EXTINF:-1 group-title="latam",DSN EVENT 4
 https://latam-cache-sv2-cdn.latamlive.net/DSN_EVENT_CH4_IP_ENC_LIVE/index.mpd
 
-#EXTINF:-1 tvg-id="DSPORTS" tvg-name="DSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Dsports_logo.png" group-title="Deportes",DSPORTS
-http://167.17.67.240:8888/DSPORTS/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="DSPORTS2" tvg-name="DSPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Dsports_logo.png" group-title="Deportes",DSPORTS 2
-http://167.17.67.240:8888/dsport2colombia/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="DSPORTSPLUS" tvg-name="DSPORTS+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Dsports_logo.png" group-title="Deportes",DSPORTS +
-http://167.17.67.240:8888/Dsportsmas/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="DSPORTSPLUS" tvg-name="DSPORTS+ (DASH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Dsports_logo.png" group-title="Deportes",DSPORTS + (DASH)
 http://latam-cache-sv2-cdn.latamlive.net/DSPLUS_ENC_LIVE/index.mpd
+
 ########################
 # CINE / PELÍCULAS
 ########################
@@ -298,19 +291,19 @@ http://latam-cache-sv2-cdn.latamlive.net/HOMEANDHEALTH_IP_ENC_LIVE/index.mpd
 #EXTINF:-1 group-title="latam",HOME & GARDEN TV
 http://latam-cache-sv2-cdn.latamlive.net/HOMEGARDENTV_ARG_IP_ENC_LIVE/index.mpd
 
-#EXTINF:-1 group-title="latam",U CHANNEL
+#EXTINF:-1 group-title="latam",Universal CHANNEL
 http://latam-cache-sv2-cdn.latamlive.net/UCHANNEL_IP_ENC_LIVE/index.mpd
 
-#EXTINF:-1 group-title="latam",U REALITY
+#EXTINF:-1 group-title="latam",Universal REALITY
 https://latam-cache-sv2-cdn.latamlive.net/UREALITY_ENC_LIVE/index.mpd
 
-#EXTINF:-1 group-title="latam",U COMEDY
+#EXTINF:-1 group-title="latam",Universal COMEDY
 https://latam-cache-sv2-cdn.latamlive.net/UCOMEDY_ENC_LIVE/index.mpd
 
-#EXTINF:-1 group-title="latam",U CRIME
+#EXTINF:-1 group-title="latam",Universal CRIME
 https://latam-cache-sv2-cdn.latamlive.net/UCRIME_ENC_LIVE/index.mpd
 
-#EXTINF:-1 group-title="latam",U PREMIERE
+#EXTINF:-1 group-title="latam",Universal PREMIERE
 https://latam-cache-sv2-cdn.latamlive.net/UPREMIERE_ENC_LIVE/index.mpd
 
 
@@ -470,48 +463,125 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
 #EXTINF:-1 tvg-id="Warner TV" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Warner TV
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
 
-#EXTM3U
+#######MGL#########
 
-#EXTINF:-1 tvg-name="EVENTO 1 HD" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png" group-title="OTTNAVIGATOR",EVENTO 1 HD
+
+#EXTINF:-1 tvg-id="A24.ar" group-title="URU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",🇦🇷 A24
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropboxusercontent.com/scl/fi/bify73qa6pam1h5op5mg4/tigo3.json
-https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=d7bb034b4e1043fd98ed33a8c8912f53:4f91ee798e5c40be9d46f24fe3781faa
+https://mcbold.mcgolive.com.uy/A24/A24_MC.isml/A24_MC.mpd
 
-#EXTINF:-1 tvg-name="EVENTOS PLUS HD" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png" group-title="OTTNAVIGATOR",EVENTOS PLUS HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TZCw4Zg.png" group-title="URU", Canal 21
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c926dba1fe354d529601ee6e38fe0a4b:41c5da6d1608e6377ff86c0ded7d042a
+https://mcgo2.boldmss.com/CANAL_21/CANAL_21_MC.isml/CANAL_21_MC.mpd
+
+#EXTINF:-1 tvg-id="TVCiudad.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png" group-title="URU", TV Ciudad
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd8229eb6ca94b10920f9cdcd8f1e978:30e9e89a697226d9fe93d23d06e9dd77
+https://mcbold.mcgolive.com.uy/TVCIUDAD_HD/TVCIUDAD_HD_MC.isml/TVCIUDAD_HD_MC.mpd
+
+#EXTINF:-1 tvg-id="Canal4.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png" group-title="URU", Canal 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vimetrix.lat/api/license.php?keyid=49b2c0e7037042b2aff9f064e0bb3311&key=83849e30adf85440550292693147fbf7
-https://d2jluxxgx550su.cloudfront.net/out/v1/62de20495af84f908fa8963f50c44d46/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=88928eece082402b99598ae4ecc08be6:d03c32df212148b40eecb445222e1288
+https://mcbold.mcgolive.com.uy/CANAL_4/CANAL_4_MC.isml/CANAL_4_MC.mpd
 
-#EXTINF:-1 tvg-name="EVENTOS 3 HD" tvg-logo="https://i.ibb.co/Cs77Ttc7/tig-rezise.png" group-title="OTTNAVIGATOR",EVENTOS 3 HD
+#EXTINF:-1 tvg-id="CharruaTelevision.uy" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/charrua-tv.png" group-title="URU", TV CHARRUA
+https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UCLTV.py" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/UCLLatam.png/revision/latest/scale-to-width-down/250?cb=20210308024753&path-prefix=es" group-title="URU", UCL TV 
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+
+#EXTINF:-1 tvg-id="Canal5.uy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_5_Uruguay_2021.png/revision/latest/scale-to-width-down/100?cb=20210725005410&path-prefix=es" group-title="URU", Canal 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://magisvideo.com/KEYFLOW/TIGO3.json
-https://sam-py-edge05.tigo.com.py/ccur-session/b0ff0175ef73e3239d6ec1a7441c501e&cfi=JVMDxRwC4M6u54XZGwnSrlZY/out/v1/c2cc7832b5b64aedacb0e459fd9d8398/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=218be4cb823d45aa99861cf532f83d7d:e50230ab33edf01dc89780b1e12323cb
+https://mcbold.mcgolive.com.uy/CANAL_5/CANAL_5_MC.isml/CANAL_5_MC.mpd
 
-#EXTM3U
 
-#EXTINF:-1 tvg-name="DIRECTV SPORTS" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="OTTNAVIGATOR",DIRECTV SPORTS
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTVLCOPT:http-header=X-App=di
-#EXTVLCOPT:http-header=X-Hash=bUWouF9zufxct3TJup7TsoyFf2zgQPqJd4LrPeyBFYXilmggTal3UZh1jLN_azi0CZ4xnxxXEz3oBUWMrFVn0hOiNK2BFYyOY6DhECJ_svjRqijqN0ln9S13O5oMn7259nDnBfR_gZV59Keox1EOWWXjlqQkxpDz4Utx1Y23JZkNmI_XDUVqmy3ln1hqP_FiYH_KkWqpXxaWFoBQP-IMUsGfA0oUeRnuCkaXN938mZWuwtOYKJ3UyEUdVhcWNRn21XGMZgenR-2mBrBe_uxwUmY5m8oLURUTHV6C9NepWW4m5S4YQj1WxbEo5z88ZIgbnH7eEmaxPZEgt_m8FA8lPaBcyd3yv5_mSQatdJS-1BgzQlz3gikc3WZKulllol53Xzdlu_gm1oDtcvMO_1xzLkBO8VTW6PXfk122ug5TfaZf0ExhqNNZE4epYomJOItALMFEkRfpivDHGX3N5xfa0QVVmDlXzbUgPVAFdwC-OAUbkOa4WelUTrsvVvLFdW0T50-wdoKWGMCCnur7fZp5Rw
-#EXTVLCOPT:http-header=X-Version=10/1.0.9
-#EXTVLCOPT:http-header=X-Did=ab633f575ddff7bb
-http://tv.m3uts.xyz/stream/secure/ZGLjKmZkZy8kZmthAGxhZwV2YwtmKmR3AmH2BQHlAQusLJV2ZmAzAGp1MTEzMwqvLy8j/312.m3u8
+#EXTINF:-1 tvg-id="Canal10.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_10_Uruguay_Logo_1960.webp/768px-Canal_10_Uruguay_Logo_1960.webp.png" group-title="URU", Canal 10 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff44d9aca7fe481da98900d1f79cb345:bca3a993208129b9bd4eed159d8cdfb2
+https://mcbold.mcgolive.com.uy/SAETA_HD/SAETA_HD_MC.isml/SAETA_HD.mpd
 
-#EXTINF:-1 tvg-name="DIRECTV SPORTS 2" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="OTTNAVIGATOR",DIRECTV SPORTS 2
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTVLCOPT:http-header=X-App=di
-#EXTVLCOPT:http-header=X-Hash=bUWouF9zufxct3TJup7TsoyFf2zgQPqJd4LrPeyBFYXilmggTal3UZh1jLN_azi0CZ4xnxxXEz3oBUWMrFVn0hOiNK2BFYyOY6DhECJ_svjRqijqN0ln9S13O5oMn7259nDnBfR_gZV59Keox1EOWWXjlqQkxpDz4Utx1Y23JZkNmI_XDUVqmy3ln1hqP_FiYH_KkWqpXxaWFoBQP-IMUsGfA0oUeRnuCkaXN938mZWuwtOYKJ3UyEUdVhcWNRn21XGMZgenR-2mBrBe_uxwUmY5m8oLURUTHV6C9NepWW4m5S4YQj1WxbEo5z88ZIgbnH7eEmaxPZEgt_m8FA8lPaBcyd3yv5_mSQatdJS-1BgzQlz3gikc3WZKulllol53Xzdlu_gm1oDtcvMO_1xzLkBO8VTW6PXfk122ug5TfaZf0ExhqNNZE4epYomJOItALMFEkRfpivDHGX3N5xfa0QVVmDlXzbUgPVAFdwC-OAUbkOa4WelUTrsvVvLFdW0T50-wdoKWGMCCnur7fZp5Rw
-#EXTVLCOPT:http-header=X-Version=10/1.0.9
-#EXTVLCOPT:http-header=X-Did=ab633f575ddff7bb
-http://tv.m3uts.xyz/stream/secure/AmHjKmZkA18kZmthAGxhZwV2YwtmKmR3AmH2BQH0AmIsLJV2ZmAzAGp1MTEzMwqvLy8j/317.m3u8
 
-#EXTINF:-1 tvg-name="DIRECTV SPORTS PLUS" tvg-logo="https://i.ibb.co/rG8VJmk2/Y2gw-MTAw-MDAw-MDAw-MTM5-X2xpbm-Vhcl9ja-GFubm-Vs-X3-Nzb-GE-11002-LOGO-360x270.png" group-title="OTTNAVIGATOR",DIRECTV SPORTS PLUS
-#EXTVLCOPT:http-user-agent=Magma Player/10
-#EXTVLCOPT:http-header=X-App=di
-#EXTVLCOPT:http-header=X-Hash=bUWouF9zufxct3TJup7TsoyFf2zgQPqJd4LrPeyBFYXilmggTal3UZh1jLN_azi0CZ4xnxxXEz3oBUWMrFVn0hOiNK2BFYyOY6DhECJ_svjRqijqN0ln9S13O5oMn7259nDnBfR_gZV59Keox1EOWWXjlqQkxpDz4Utx1Y23JZkNmI_XDUVqmy3ln1hqP_FiYH_KkWqpXxaWFoBQP-IMUsGfA0oUeRnuCkaXN938mZWuwtOYKJ3UyEUdVhcWNRn21XGMZgenR-2mBrBe_uxwUmY5m8oLURUTHV6C9NepWW4m5S4YQj1WxbEo5z88ZIgbnH7eEmaxPZEgt_m8FA8lPaBcyd3yv5_mSQatdJS-1BgzQlz3gikc3WZKulllol53Xzdlu_gm1oDtcvMO_1xzLkBO8VTW6PXfk122ug5TfaZf0ExhqNNZE4epYomJOItALMFEkRfpivDHGX3N5xfa0QVVmDlXzbUgPVAFdwC-OAUbkOa4WelUTrsvVvLFdW0T50-wdoKWGMCCnur7fZp5Rw
-#EXTVLCOPT:http-header=X-Version=10/1.0.9
-#EXTVLCOPT:http-header=X-Did=ab633f575ddff7bb
-http://tv.m3uts.xyz/stream/secure/ZGN3KmZkAS8kZmthAGxhZwV2YwtmKmR3AmH2BQH0ZGSsLJV2ZmAzAGp1MTEzMwqvLy8j/314.m3u8
+#EXTINF:-1 tvg-id="Teledoce.uy" group-title="URU" tvg-logo="https://www.montecable.com/img/senales/422-Teledoce.png", La Tele 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e36b18dc45c4d83868da659f5354938:297464517e9c7f055e12095e6ac2b07b
+https://mcbold.mcgolive.com.uy/TELEDOCE_HD/TELEDOCE_HD_MC.isml/TELEDOCE_HD.mpd
+
+
+#EXTINF:-1 group-title="URU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/640px-History_%282021%29.svg.png",History
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b09a4e7c211c4d14ae96e768f3f7769a:e81b7679400a2e666371e5de3b6564dc
+https://mcbold.mcgolive.com.uy/HISTORY/HISTORY_MC.isml/HISTORY_MC.mpd
+
+#EXTINF:-1 tvg-id="History2Panregional.us" group-title="URU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1984px-History2_logo_%282022%29.svg.png", History 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5af87ade2cd454da0e83884ce209bc7:628d65afb9e9713985c42dae314be3ca
+https://mcbold.mcgolive.com.uy/HISTORY_2/HISTORY_2_MC.isml/HISTORY_2_MC.mpd
+
+#EXTINF:-1, tvg-id="HBOLatinAmerica.us" tvg-name="HBO" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1575988848810-HBO-b.png" group-title="URU", HBO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e11d998ed652400f9e2c2c5373c4dbcf:46777b7191c429c3286b34ed4c4ae258
+https://mcbold.mcgolive.com.uy/HBO/HBO_MC.isml/HBO_MC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=89d1178f5a9d4c8e8107ea6a7e062f62:c0107d5f5ade766f4263b83785b40e53
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097878607-HBO-2-pequenio-B.png" group-title="URU", HBO 2
+https://mcbold.mcgolive.com.uy/HBO_2/HBO_2_MC.isml/manifest.mpd
+
+#EXTINF:-1, tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="URU", HBO Plus
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=867ee2aab8fe40e393dcf741978b9f95:4ea0fc620e888b0cc8a9c3a80034676f
+https://mcbold.mcgolive.com.uy/HBO_PLUS/HBO_PLUS_MC.isml/HBO_PLUS_MC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c46c55c7c649b9845e70a3c8ea52ad:0fbc166dff13d88110711c481ed3a843
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="URU", ESPN 
+https://mcbold.mcgolive.com.uy/ESPN/ESPN_MC.isml/ESPN_MC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=36489d6546144b29989e021008a950a5:4e64f9c1fd2875639db92b196f24d891
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://static.wixstatic.com/media/b12542_ea74dac7ead245a6a572f8caab350a58~mv2.png" group-title="URU", ESPN 2 
+https://mcbold.mcgolive.com.uy/ESPN_2/ESPN_2_MC.isml/ESPN_2_MC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e835e1826123484597aa98bf6ee66df5:29fc38baf3a54e6857c36aa5d409766a
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-logo="https://static.wixstatic.com/media/b12542_5658d51d89ad4541a01770e4f80d953d~mv2.png" group-title="URU", ESPN 3 
+https://mcbold.mcgolive.com.uy/ESPN_3/ESPN_3_MC.isml/ESPN_3_MC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=465500ff6158427287ad665316f06d3c:6860932e1b0846a60fdf3eea28bae863
+#EXTINF:-1 group-title="URU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" ,ESPN 4
+https://mcbold.mcgolive.com.uy/ESPN_EXTRA/ESPN_EXTRA_MC.isml/ESPN_EXTRA_MC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=03fbceb0258f46ca99fac37110bee4f2:2a73b4333c29ee9030fa70e78c0213bc
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png
+" group-title="URU", ESPN 5
+https://mcbold.mcgolive.com.uy/ESPN_4/ESPN_4_MC.isml/ESPN_4_MC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a06ab48523f42a0abe0265c322ed0b9:abe89b0e494e92de3d9106a7ad5d904e
+#EXTINF:-1 tvg-id="FoxSports3Argentina.ar" tvg-logo="https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png" group-title="URU", ESPN 6
+https://mcbold.mcgolive.com.uy/FOX_SPORTS_3/FOX_SPORTS_3_MC.isml/FOX_SPORTS_3_MC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=538368e93bb3449bb5822688e86d4dec:013ea040309e706222c8e707751c1753
+#EXTINF:-1 tvg-id="FoxSports2HDSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" group-title="URU", ESPN 7 
+https://mcbold.mcgolive.com.uy/FOX_SPORTS_2/FOX_SPORTS_2_MC.isml/FOX_SPORTS_2_MC.mpd
+
+
+
+
+
+
 
 
 
