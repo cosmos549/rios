@@ -84,8 +84,6 @@ http://185.56.109.253/Discovery/playlist.m3u8
 #EXTINF:-1 tvg-id="history" group-title="500 | Documentales",502 History
 http://185.56.109.253/History/playlist.m3u8
 
-#EXTINF:-1 tvg-id="history" group-title="500 | Documentales",502 History FHD
-http://45.238.30.42:5050/play/a023/index.m3u8
 
 #EXTINF:-1 tvg-id="history2" group-title="500 | Documentales",503 History 2
 http://185.56.109.253/History2/playlist.m3u8
@@ -216,10 +214,10 @@ https://latam-cache-sv2-cdn.latamlive.net/SKY_SPORTS_HD_ENC_LIVE/index.mpd
 #EXTINF:-1 group-title="latam",L1 MAX
 https://latam-cache-sv2-cdn.latamlive.net/L1MAX_ENC_LIVE/index.mpd
 
-#EXTINF:-1 group-title="latam",DS1
+#EXTINF:-1 group-title="latam",DSports1
 https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
 
-#EXTINF:-1 group-title="latam",DS PLUS
+#EXTINF:-1 group-title="latam",DSports PLUS
 https://latam-cache-sv2-cdn.latamlive.net/DSPLUS_ENC_LIVE/index.mpd
 
 #EXTINF:-1 group-title="latam",EVENTOS F1
@@ -268,7 +266,7 @@ https://latam-cache-sv2-cdn.latamlive.net/HBO_PLUS_HD_AR_ENC_LIVE/index.mpd
 #EXTINF:-1 group-title="latam",HBO POP
 https://latam-cache-sv2-cdn.latamlive.net/HBO_POP_AR_HD_ENC_LIVE/index.mpd
 
-#EXTINF:-1 group-title="latam",U CINEMA
+#EXTINF:-1 group-title="latam",Universal CINEMA
 https://latam-cache-sv2-cdn.latamlive.net/UCINEMA_ENC_LIVE/index.mpd
 
 #EXTINF:-1 group-title="latam",TNT
@@ -472,11 +470,6 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d7bb034b4e1043fd98ed33a8c8912f53:4f91ee798e5c40be9d46f24fe3781faa
 https://mcbold.mcgolive.com.uy/A24/A24_MC.isml/A24_MC.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TZCw4Zg.png" group-title="URU", Canal 21
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c926dba1fe354d529601ee6e38fe0a4b:41c5da6d1608e6377ff86c0ded7d042a
-https://mcgo2.boldmss.com/CANAL_21/CANAL_21_MC.isml/CANAL_21_MC.mpd
 
 #EXTINF:-1 tvg-id="TVCiudad.uy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png" group-title="URU", TV Ciudad
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -541,41 +534,6 @@ https://mcbold.mcgolive.com.uy/HBO_2/HBO_2_MC.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=867ee2aab8fe40e393dcf741978b9f95:4ea0fc620e888b0cc8a9c3a80034676f
 https://mcbold.mcgolive.com.uy/HBO_PLUS/HBO_PLUS_MC.isml/HBO_PLUS_MC.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c46c55c7c649b9845e70a3c8ea52ad:0fbc166dff13d88110711c481ed3a843
-#EXTINF:-1 tvg-id="ESPN2.ar" tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="URU", ESPN 
-https://mcbold.mcgolive.com.uy/ESPN/ESPN_MC.isml/ESPN_MC.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=36489d6546144b29989e021008a950a5:4e64f9c1fd2875639db92b196f24d891
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://static.wixstatic.com/media/b12542_ea74dac7ead245a6a572f8caab350a58~mv2.png" group-title="URU", ESPN 2 
-https://mcbold.mcgolive.com.uy/ESPN_2/ESPN_2_MC.isml/ESPN_2_MC.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e835e1826123484597aa98bf6ee66df5:29fc38baf3a54e6857c36aa5d409766a
-#EXTINF:-1 tvg-id="ESPN3.ar" tvg-logo="https://static.wixstatic.com/media/b12542_5658d51d89ad4541a01770e4f80d953d~mv2.png" group-title="URU", ESPN 3 
-https://mcbold.mcgolive.com.uy/ESPN_3/ESPN_3_MC.isml/ESPN_3_MC.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=465500ff6158427287ad665316f06d3c:6860932e1b0846a60fdf3eea28bae863
-#EXTINF:-1 group-title="URU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" ,ESPN 4
-https://mcbold.mcgolive.com.uy/ESPN_EXTRA/ESPN_EXTRA_MC.isml/ESPN_EXTRA_MC.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=03fbceb0258f46ca99fac37110bee4f2:2a73b4333c29ee9030fa70e78c0213bc
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png
-" group-title="URU", ESPN 5
-https://mcbold.mcgolive.com.uy/ESPN_4/ESPN_4_MC.isml/ESPN_4_MC.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a06ab48523f42a0abe0265c322ed0b9:abe89b0e494e92de3d9106a7ad5d904e
-#EXTINF:-1 tvg-id="FoxSports3Argentina.ar" tvg-logo="https://static.flow.com.ar/images/9019/CH_LOGO/60/40/0/0/15905984073899.png" group-title="URU", ESPN 6
-https://mcbold.mcgolive.com.uy/FOX_SPORTS_3/FOX_SPORTS_3_MC.isml/FOX_SPORTS_3_MC.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=538368e93bb3449bb5822688e86d4dec:013ea040309e706222c8e707751c1753
-#EXTINF:-1 tvg-id="FoxSports2HDSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" group-title="URU", ESPN 7 
-https://mcbold.mcgolive.com.uy/FOX_SPORTS_2/FOX_SPORTS_2_MC.isml/FOX_SPORTS_2_MC.mpd
 
 
 
