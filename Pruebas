@@ -50,6 +50,8 @@ http://217.26.190.76:8888/play/a0jb/index.m3u8
 
 #EXTINF:-1 tvg-id="-" group-title="200 | Deportes HD",207 DSports Plus
 
+#EXTINF:-1 tvg-id="-" group-title="200 | Deportes HD",208 beIN Sports XTRA ñ
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 ############################
 # 🎭 300 - SERIES (HD)
