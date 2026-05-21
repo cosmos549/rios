@@ -31,16 +31,12 @@ https://el4live2.boldmss.com/HBO_POP/HBO_POP_EL4.isml/manifest
 # ⚽ 200 - DEPORTES (HD)
 ############################
 #EXTINF:-1 tvg-id="foxsports" group-title="200 | Deportes HD",201 Fox Sports HD
-http://185.56.109.251/FoxSport/playlist.m3u8
 
 #EXTINF:-1 tvg-id="foxsports2" group-title="200 | Deportes HD",202 Fox Sports 2 HD
-http://185.56.109.251/FoxSport2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="foxsports3" group-title="200 | Deportes HD",203 Fox Sports 3 HD
-http://185.56.109.251/FoxSport3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tudn" group-title="200 | Deportes HD",204 TUDN HD
-http://185.56.109.251/Tudn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="-" group-title="200 | Deportes HD",205 DSports 720
 http://201.230.121.85:8000/play/a0yv/index.m3u8
@@ -67,50 +63,37 @@ http://179.60.224.196:8000/play/a0i7/index.m3u8
 # 🎭 300 - SERIES (HD)
 ############################
 #EXTINF:-1 tvg-id="warner" group-title="300 | Series HD",301 Warner HD
-http://185.56.109.251/warner/playlist.m3u8
 
 #EXTINF:-1 tvg-id="universal" group-title="300 | Series HD",302 Universal HD
-http://185.56.109.251/UniversalChannel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="axn" group-title="300 | Series HD",303 AXN HD
-http://185.56.109.253/Axn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sony" group-title="300 | Series HD",304 Sony HD
-http://185.56.109.253/Sony/playlist.m3u8
 
 ############################
 # 🎬 400 - PELÍCULAS
 ############################
 #EXTINF:-1 tvg-id="sonymovies" group-title="400 | Películas",401 Sony Movies
-http://185.56.109.253/SonyMovies/playlist.m3u8
 
 #EXTINF:-1 tvg-id="filmartstv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Film_%26_Arts_logo.png" group-title="400 | Películas",407 Film&Arts
-http://45.5.116.177:8015/play/a0gs/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/TCM_logo.svg" group-title="Películas",402 TCM
-http://45.177.21.6:9000/play/a01r
 
 #EXTINF:-1 tvg-id="DHE" tvg-name="DHE" tvg-logo="https://via.placeholder.com/300x150?text=DHE" group-title="Películas",403 DHE
-http://45.177.21.6:9000/play/a01e
 
 #EXTINF:-1 tvg-id="WESTERN" tvg-name="Western" tvg-logo="https://via.placeholder.com/300x150?text=Western" group-title="Películas", 404 Western
-http://45.177.21.6:9000/play/a02h
 
 ############################
 # 📚 500 - DOCUMENTALES
 ############################
 #EXTINF:-1 tvg-id="discovery" group-title="500 | Documentales",501 Discovery
-http://185.56.109.253/Discovery/playlist.m3u8
 
 #EXTINF:-1 tvg-id="history" group-title="500 | Documentales",502 History
-http://185.56.109.253/History/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="history2" group-title="500 | Documentales",503 History 2
-http://185.56.109.253/History2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="animalplanet" group-title="500 | Documentales",504 Animal Planet
-http://185.56.109.253/AnimalPlanet/playlist.m3u8
 
 #EXTINF:-1 tvg-id="lovenature.4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Love_Nature_logo.svg" group-title="500 | Documentales",505 Love Nature 4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
@@ -122,49 +105,39 @@ https://endpnt.com/hls/nasa4k/playlist.m3u8
 # 👶 600 - INFANTIL
 ############################
 #EXTINF:-1 tvg-id="discoverykids" group-title="600 | Infantil",601 Discovery Kids
-http://185.56.109.253/DiscoveryKids/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="dreamworks" group-title="600 | Infantil",602 DreamWorks
-http://185.56.109.251/Dreamworks/playlist.m3u8
+
 
 ############################
 # 🍔 700 - ENTRETENIMIENTO
 ############################
 #EXTINF:-1 tvg-id="tlc" group-title="700 | Entretenimiento",701 TLC
-http://185.56.109.253/Tlc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="foodnetwork" group-title="700 | Entretenimiento",702 Food Network
-http://185.56.109.253/FoodNetwork/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FMHFAMILY" tvg-name="FMH Family" tvg-logo="https://via.placeholder.com/300x150?text=FMH+Family" group-title="Entretenimiento", 703 FMH Family
-http://45.177.21.6:9000/play/a02z
 
-#EXTINF:-1 tvg-id="TLNOVELAS" tvg-name="tlnovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Tlnovelas_logo.png" group-title="Entretenimiento",704 tlnovelas
-http://45.177.21.6:9000/play/a00e
+
 
 ############################
 # 🌍 800 - ESPAÑA
 ############################
 #EXTINF:-1 tvg-id="antena3.es" group-title="800 | España",801 Antena 3
-http://176.65.146.99:8401/play/a09a/index.m3u8
 
 #EXTINF:-1 tvg-id="telecinco.es" group-title="800 | España",802 Telecinco
-http://176.65.146.99:8401/play/a098/index.m3u8
 
 #EXTINF:-1 tvg-id="lasexta.es" group-title="800 | España",803 La Sexta
-http://176.65.146.99:8401/play/a09b/index.m3u8
 
 #EXTINF:-1 tvg-id="cuatro.es" group-title="800 | España",804 Cuatro
-http://176.65.146.99:8401/play/a099/index.m3u8
 
 #EXTINF:-1 tvg-id="la1.es" group-title="800 | España",805 La 1 UHD
-http://176.65.146.99:8401/play/a094/index.m3u8
 
 #EXTINF:-1 tvg-id="etb1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/ETB1_logo.svg" group-title="800 | España",806 ETB1 HD
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="STARTVE" tvg-name="Star TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/TVE_Internacional_Logo_2015.png" group-title="800 | España",Star TVE
-http://45.177.21.6:9000/play/a01d
 
 ############################
 # 📰 900 - NOTICIAS
@@ -193,294 +166,6 @@ https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8
 
 
 
-#EXTM3U
-
-########################
-# DEPORTES
-########################
-
-#EXTINF:-1 group-title="latam",ESPN PREMIUM
-https://latam-cache-sv2-cdn.latamlive.net/ESPNPREMIUM_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",ESPN 1
-https://latam-cache-sv2-cdn.latamlive.net/ESPN1_AR_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",ESPN 2
-https://latam-cache-sv2-cdn.latamlive.net/ESPN2_AR_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",ESPN 3
-https://latam-cache-sv2-cdn.latamlive.net/ESPN3_AR_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",ESPN 4
-https://latam-cache-sv2-cdn.latamlive.net/ESPN4_AR_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",FOX SPORTS
-https://latam-cache-sv2-cdn.latamlive.net/FOX_SPORTS_HD_AR_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",FOX SPORTS 2
-https://latam-cache-sv2-cdn.latamlive.net/FOX_SPORTS2_HD_AR_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",FOX SPORTS 3
-https://latam-cache-sv2-cdn.latamlive.net/FOX_SPORTS3_HD_AR_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",TYC SPORTS
-https://latam-cache-sv2-cdn.latamlive.net/TYC_SPORTS_AR_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",BEIN SPORTS
-https://latam-cache-sv2-cdn.latamlive.net/BEINSPORTSN_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",SKY SPORTS
-https://latam-cache-sv2-cdn.latamlive.net/SKY_SPORTS_HD_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",L1 MAX
-https://latam-cache-sv2-cdn.latamlive.net/L1MAX_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",DS1
-https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",DS PLUS
-https://latam-cache-sv2-cdn.latamlive.net/DSPLUS_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",EVENTOS F1
-https://latam-cache-sv2-cdn.latamlive.net/EVENTOSFL1_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",DSN EVENT 1
-https://latam-cache-sv2-cdn.latamlive.net/DSN_EVENT_CH1_IP_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",DSN EVENT 2
-https://latam-cache-sv2-cdn.latamlive.net/DSN_EVENT_CH2_IP_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",DSN EVENT 3
-https://latam-cache-sv2-cdn.latamlive.net/DSN_EVENT_CH3_IP_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",DSN EVENT 4
-https://latam-cache-sv2-cdn.latamlive.net/DSN_EVENT_CH4_IP_ENC_LIVE/index.mpd
-
-#EXTINF:-1 tvg-id="DSPORTSPLUS" tvg-name="DSPORTS+ (DASH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Dsports_logo.png" group-title="Deportes",DSPORTS + (DASH)
-http://latam-cache-sv2-cdn.latamlive.net/DSPLUS_ENC_LIVE/index.mpd
-
-########################
-# CINE / PELÍCULAS
-########################
-
-#EXTINF:-1 group-title="latam",HBO
-https://latam-cache-sv2-cdn.latamlive.net/HBO_HD_AR_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",HBO 2
-https://latam-cache-sv2-cdn.latamlive.net/HBO2_AR_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",HBO FAMILY
-https://latam-cache-sv2-cdn.latamlive.net/HBO_FAMILY_HD_AR_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",HBO XTREME
-https://latam-cache-sv2-cdn.latamlive.net/HBO_XTREME_HD_AR_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",HBO MUNDI
-https://latam-cache-sv2-cdn.latamlive.net/HBO_MUNDI_HD_AR_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",HBO SIGNATURE
-https://latam-cache-sv2-cdn.latamlive.net/HBO_SIGNATURE_AR_HD_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",HBO PLUS
-https://latam-cache-sv2-cdn.latamlive.net/HBO_PLUS_HD_AR_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",HBO POP
-https://latam-cache-sv2-cdn.latamlive.net/HBO_POP_AR_HD_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",Universal CINEMA
-https://latam-cache-sv2-cdn.latamlive.net/UCINEMA_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",TNT
-http://latam-cache-sv2-cdn.latamlive.net/TNT_ENC_LIVE/index.mpd
-
-
-########################
-# ENTRETENIMIENTO
-########################
-
-#EXTINF:-1 group-title="latam",SONY CHANNEL
-http://latam-cache-sv2-cdn.latamlive.net/SONY_CHANNEL_IP_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",FX
-http://latam-cache-sv2-cdn.latamlive.net/FX_IP_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",HOME & HEALTH
-http://latam-cache-sv2-cdn.latamlive.net/HOMEANDHEALTH_IP_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",HOME & GARDEN TV
-http://latam-cache-sv2-cdn.latamlive.net/HOMEGARDENTV_ARG_IP_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",Universal CHANNEL
-http://latam-cache-sv2-cdn.latamlive.net/UCHANNEL_IP_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",Universal REALITY
-https://latam-cache-sv2-cdn.latamlive.net/UREALITY_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",Universal COMEDY
-https://latam-cache-sv2-cdn.latamlive.net/UCOMEDY_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",Universal CRIME
-https://latam-cache-sv2-cdn.latamlive.net/UCRIME_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",Universal PREMIERE
-https://latam-cache-sv2-cdn.latamlive.net/UPREMIERE_ENC_LIVE/index.mpd
-
-
-########################
-# NOTICIAS
-########################
-
-#EXTINF:-1 group-title="latam",TN
-https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",A24
-http://latam-cache-sv2-cdn.latamlive.net/A24_ARG_IP_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",CRONICA TV
-http://latam-cache-sv2-cdn.latamlive.net/CRONICA_TV_ARG_IP_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",LA NACION MAS
-http://latam-cache-sv2-cdn.latamlive.net/LANACIONMAS_IP_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",C5N
-http://latam-cache-sv2-cdn.latamlive.net/C5N_AR_IP_ENC_LIVE/index.mpd
-
-
-########################
-# TV GENERAL
-########################
-
-#EXTINF:-1 group-title="latam",TELEFE
-https://latam-cache-sv2-cdn.latamlive.net/TELEFE_AR_IP_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",CANAL 13
-http://latam-cache-sv2-cdn.latamlive.net/CANAL_13_HD_IP_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",TV PUBLICA
-http://latam-cache-sv2-cdn.latamlive.net/TV_PUBLICA_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",EL NUEVE
-http://latam-cache-sv2-cdn.latamlive.net/EL_NUEVE_HD_AR_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",AMERICA TV
-http://latam-cache-sv2-cdn.latamlive.net/AMERICA_AR_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",CARACOL
-https://latam-cache-sv2-cdn.latamlive.net/CARACOL_IP_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",RCN
-https://latam-cache-sv2-cdn.latamlive.net/RCN_IP_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",RCN NOVELAS
-https://latam-cache-sv2-cdn.latamlive.net/RCN_NOVELAS_SAT_ENC_LIVE/index.mpd
-
-#EXTINF:-1 group-title="latam",ETC
-https://latam-cache-sv2-cdn.latamlive.net/ETC_SD_SAT_ENC_LIVE/index.mpd
-
-
-
-###############lista 2#########################
-
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-
-#EXTINF:-1 tvg-id="A&E" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",A&E
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/5.m3u8
-#EXTINF:-1 tvg-id="A24" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",A24
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/6.m3u8
-#EXTINF:-1 tvg-id="ABC TV" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",ABC TV
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8
-#EXTINF:-1 tvg-id="Adult Swim" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Adult Swim
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/8.m3u8
-#EXTINF:-1 tvg-id="AMC" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",AMC
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/42.m3u8
-#EXTINF:-1 tvg-id="America Paraguay" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",America Paraguay
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8
-#EXTINF:-1 tvg-id="AXN" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",AXN
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8
-#EXTINF:-1 tvg-id="BabyTV" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",BabyTV
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/11.m3u8
-#EXTINF:-1 tvg-id="Band Brasil" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Band Brasil
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/77.m3u8
-#EXTINF:-1 tvg-id="C9N" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",C9N
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1443.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Cartoon Network
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/115.m3u8
-#EXTINF:-1 tvg-id="Cartoonito" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Cartoonito
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/70.m3u8
-#EXTINF:-1 tvg-id="Cinecanal" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Cinecanal
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8
-#EXTINF:-1 tvg-id="Comedy Central" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Comedy Central
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/87.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Discovery Channel
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
-#EXTINF:-1 tvg-id="Disney Jr" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Disney Jr
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/114.m3u8
-#EXTINF:-1 tvg-id="DW" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",DW
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/102.m3u8
-#EXTINF:-1 tvg-id="El Trece" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",El Trece
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
-#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",ESPN
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
-#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",ESPN 2
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/88.m3u8
-#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",ESPN 3
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/90.m3u8
-#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",ESPN 4
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/91.m3u8
-#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",ESPN 5
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/92.m3u8
-#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",ESPN 6
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
-#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",ESPN 7
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/26.m3u8
-#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",ESPN Premium
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
-#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",HBO
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/32.m3u8
-#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",HBO 2
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/30.m3u8
-#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",HBO Family
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/31.m3u8
-#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",HBO Plus
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/36.m3u8
-#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",HBO Signature
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/34.m3u8
-#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",HBO Xtreme
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/35.m3u8
-#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",HBO Mundi
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/33.m3u8
-#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Universal Cinema
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/61.m3u8
-#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Universal Comedy
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/62.m3u8
-#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Universal Crime
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/63.m3u8
-#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Universal Premiere
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/64.m3u8
-#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Universal Plus
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/65.m3u8
-#EXTINF:-1 group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Universal Studio
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8
-#EXTINF:-1 tvg-id="History" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",History
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
-#EXTINF:-1 tvg-id="Nat Geo" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Nat Geo
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/45.m3u8
-#EXTINF:-1 tvg-id="Sony Channel" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Sony Channel
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/49.m3u8
-#EXTINF:-1 tvg-id="Space" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Space
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/50.m3u8
-#EXTINF:-1 tvg-id="Star Channel" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Star Channel
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
-#EXTINF:-1 tvg-id="Telefe" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Telefe
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/81.m3u8
-#EXTINF:-1 tvg-id="Telemundo" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Telemundo
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/54.m3u8
-#EXTINF:-1 tvg-id="TNT" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",TNT
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/56.m3u8
-#EXTINF:-1 tvg-id="TNT Sports" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",TNT Sports
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
-#EXTINF:-1 tvg-id="Warner TV" group-title="lista 2" tvg-logo="https://i.ibb.co/67Vth99Q/tv-Cico.png",Warner TV
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
 
 #######MGL#########
 
