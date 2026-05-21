@@ -106,13 +106,16 @@ http://181.205.205.173:8888/play/a0t6/index.m3u8
 
 #EXTINF:-1 tvg-id="WESTERN" tvg-name="Western" tvg-logo="https://via.placeholder.com/300x150?text=Western" group-title="Películas", 404 Western
 
+#EXTINF:-1 tvg-id="DHE" tvg-name="-" tvg-logo="-" group-title="Películas",405 Esuropa Europa
+http://45.5.151.62:8000/play/a01g/index.m3u8
+
 ############################
 # 📚 500 - DOCUMENTALES
 ############################
 #EXTINF:-1 tvg-id="discovery" group-title="500 | Documentales",501 Discovery
 
 #EXTINF:-1 tvg-id="history" group-title="500 | Documentales",502 History
-
+http://45.5.151.62:8000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-id="history2" group-title="500 | Documentales",503 History 2
 
