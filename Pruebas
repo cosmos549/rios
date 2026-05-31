@@ -27,6 +27,27 @@ https://el4live2.boldmss.com/HBO_MUNDI/HBO_MUNDI_EL4.isml/manifest
 #EXTINF:-1 tvg-id="hbopop.es" group-title="100 | HBO HD",108 HBO Pop HD
 https://el4live2.boldmss.com/HBO_POP/HBO_POP_EL4.isml/manifest
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxnqzfnP/hbo.jpg" group-title="Premium | Latino",HBO (LATAM)
+http://corgol.com@45.228.234.30:16000/play/a008
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0PDnYRj/hbo2-v.jpg" group-title="Premium | Latino",HBO | 2 (LATAM)
+http://corgol.com@45.228.234.30:16000/play/a009
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5jJtpw1/hbo-plusx.jpg" group-title="Premium | Latino",HBO | Plus (LATAM)
+http://corgol.com@45.228.234.30:16000/play/a00a
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28vQQTb8/hbo-mundi.jpg" group-title="Premium | Latino",HBO | Mundi (LATAM)
+http://190.11.225.124:5000/live/paramount_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNh92TC8/hbo-signature.jpg" group-title="Premium | Latino",HBO | Signature (LATAM)
+http://190.11.225.124:5000/live/hbo_signature_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/prRkRR6N/hbo-xtreme.jpg" group-title="Premium | Latino",HBO | Xtreme (LATAM)
+http://190.11.225.124:5000/live/hbo_xtreme_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZLSZRFj/hbo-family.jpg" group-title="Premium | Latino",HBO | Family (LATAM)
+http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
+
 ############################
 # ⚽ 200 - DEPORTES (HD)
 ############################
@@ -187,8 +208,14 @@ https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8
 
 #EXTINF:-1 tvg-id="elnueve.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/El_Nueve_logo.svg" group-title="850 | Argentina",852 El Nueve
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/523mnXy2/multipremier.jpg" group-title="Premium | Latino",Multipremier (LATAM)
+http://corgol.com@45.228.234.30:16000/play/a025
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqgmGjnJ/universaltv.jpg" group-title="Premium | Latino",Universal (LATAM)
+http://190.11.225.124:5000/live/universal_hd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNFmMcGB/studiouniversal.jpg" group-title="Premium | Latino",Studio Universal (LATAM)
+http://corgol.com@45.228.234.30:16000/play/a028
 
 
 
