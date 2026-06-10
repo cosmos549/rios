@@ -103,6 +103,12 @@ http://181.205.205.173:8888/play/a0ho/index.m3u8
 #EXTINF:-1 tvg-id="-" group-title="200 | Deportes HD",219 ESPN Premium
 http://181.205.205.173:8888/play/a0t6/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png" group-title="Paramount+",DSports | Paramount+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
+https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
+
+
 ############################
 # 🎭 300 - SERIES (HD)
 ############################
