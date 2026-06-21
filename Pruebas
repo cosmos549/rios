@@ -122,6 +122,11 @@ https://streamxyz.shop/fs14k/index.m3u8?expires=1782070121&secret=pMA3rIhFNaXkOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
 https://streamxyz.shop
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mundial 2026", tsn 4k
+https://streamxyz.shop/tsn4k/index.m3u8?expires=1782070683&secret=pMA3rIhFNaXkOX5kQ4BfcTu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
+https://streamxyz.shop
+
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="La 1 4K" tvg-logo="https://195.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/195/entry_id/04eb8836b95845a59887c8d94a0b810b/version/7/width/120/height/75/quality/100" catchup-type="default" catchup-source="http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP001_UHD/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE" catchup-days="7" group-title="Mundial 2026",LA 1 UHD
 http://176.65.146.129:8401/play/a093/index.m3u8
 
