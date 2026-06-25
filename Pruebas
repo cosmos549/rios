@@ -351,12 +351,12 @@ https://mcbold.mcgolive.com.uy/HBO_2/HBO_2_MC.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=867ee2aab8fe40e393dcf741978b9f95:4ea0fc620e888b0cc8a9c3a80034676f
 https://mcbold.mcgolive.com.uy/HBO_PLUS/HBO_PLUS_MC.isml/HBO_PLUS_MC.mpd
 
-#EXTINF:-1 group-title="1000 | Uruguay" tvg-logo="", DSports +
+#EXTINF:-1 group-title="1000 | Uruguay" tvg-logo="", DSports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0bbfc1d5cf143f9bb0042c2be9c4a4c:f95925007220fea249038ac6523c5c7b
 https://mcbold.mcgolive.com.uy/DSPORTS_1_HD/DSPORTS_1_HD_MC.isml/DSPORTS_1_HD.mpd
 
-#EXTINF:-1 group-title="1000 | Uruguay" tvg-logo="", DSports 
+#EXTINF:-1 group-title="1000 | Uruguay" tvg-logo="", DSports + 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7d72bde02424d6d9b6284badda21ee1:4589d54bef2eba8b402856e063cd258a
 https://mcbold.mcgolive.com.uy/DSPORTS_PLUS_HD/DSPORTS_PLUS_HD_MC.isml/DSPORTS_PLUS_HD.mpd
