@@ -4,34 +4,25 @@
 # 🎬 100 - HBO (HD)
 ############################
 #EXTINF:-1 tvg-id="hbo.es" group-title="100 | HBO HD",101 HBO HD
-https://el4live2.boldmss.com/HBO/HBO_EL4.isml/manifest
+
 
 #EXTINF:-1 tvg-id="hbo2.es" group-title="100 | HBO HD",102 HBO 2 HD
-https://el4live2.boldmss.com/HBO_2/HBO_2_EL4.isml/manifest
 
 #EXTINF:-1 tvg-id="hboplus.es" group-title="100 | HBO HD",103 HBO Plus HD
-https://el4live2.boldmss.com/HBOPLUS/HBOPLUS_EL4.isml/manifest
 
 #EXTINF:-1 tvg-id="hbofamily.es" group-title="100 | HBO HD",104 HBO Family HD
-https://el4live1.boldmss.com/HBO_FAMILY/HBO_FAMILY_EL4.isml/manifest
 
 #EXTINF:-1 tvg-id="hbosignature.es" group-title="100 | HBO HD",105 HBO Signature HD
-https://el4live2.boldmss.com/HBO_SIGNATURE/HBO_SIGNATURE_EL4.isml/manifest
 
 #EXTINF:-1 tvg-id="hboxtreme.es" group-title="100 | HBO HD",106 HBO Xtreme HD
-https://el4live2.boldmss.com/HBO_EXTREME/HBO_EXTREME_EL4.isml/manifest
 
 #EXTINF:-1 tvg-id="hbomundi.es" group-title="100 | HBO HD",107 HBO Mundi HD
-https://el4live2.boldmss.com/HBO_MUNDI/HBO_MUNDI_EL4.isml/manifest
 
 #EXTINF:-1 tvg-id="hbopop.es" group-title="100 | HBO HD",108 HBO Pop HD
-https://el4live2.boldmss.com/HBO_POP/HBO_POP_EL4.isml/manifest
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxnqzfnP/hbo.jpg" group-title="100 | HBO HD",HBO (LATAM)
-http://corgol.com@45.228.234.30:16000/play/a008
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0PDnYRj/hbo2-v.jpg" group-title="100 | HBO HD",HBO | 2 (LATAM)
-http://corgol.com@45.228.234.30:16000/play/a009
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5jJtpw1/hbo-plusx.jpg" group-title="100 | HBO HD",HBO | Plus (LATAM)
 http://corgol.com@45.228.234.30:16000/play/a00a
@@ -112,28 +103,17 @@ https://tinyurl.com/dsportsgo2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mundial 2026", DAZN
 https://tinyurl.com/daznsportstv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mundial 2026", 4K
-#EXTVLCOPT:https://streamxyz.shop
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://streamxyz.shop/fs14k/index.m3u8?expires=1782070121&secret=pMA3rIhFNaXkOX5kQ4BfcTu|Referer=https://streamxyz.shop
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mundial 2026",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mundial 2026", 4K 2
-https://streamxyz.shop/fs14k/index.m3u8?expires=1782070121&secret=pMA3rIhFNaXkOX5kQ4BfcTu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://streamxyz.shop
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mundial 2026", 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mundial 2026", tsn 4k
-https://streamxyz.shop/tsn4k/index.m3u8?expires=1782070683&secret=pMA3rIhFNaXkOX5kQ4BfcTu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://streamxyz.shop
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mundial 2026", 
 
 #EXTINF:-1 tvg-logo="" group-title="Mundial 2026", FOX ONE 4K
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/qmjlikytt2/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=
 
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="La 1 4K" tvg-logo="https://195.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/195/entry_id/04eb8836b95845a59887c8d94a0b810b/version/7/width/120/height/75/quality/100" catchup-type="default" catchup-source="http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP001_UHD/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE" catchup-days="7" group-title="Mundial 2026",LA 1 UHD
-http://176.65.146.129:8401/play/a093/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png" group-title="Paramount+",DSports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -155,10 +135,6 @@ https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37
 #KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mundial 2026", Telemundo Arizona
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f
-https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd
 
 
 ############################
@@ -270,7 +246,6 @@ https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8
 http://corgol.com@45.228.234.30:16000/play/a025
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqgmGjnJ/universaltv.jpg" group-title="100 | HBO HD",704 Universal (LATAM)
-http://190.11.225.124:5000/live/universal_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNFmMcGB/studiouniversal.jpg" group-title="100 | HBO HD",408 Studio Universal (LATAM)
 http://corgol.com@45.228.234.30:16000/play/a028
