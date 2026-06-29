@@ -20,24 +20,7 @@
 
 #EXTINF:-1 tvg-id="hbopop.es" group-title="100 | HBO HD",108 HBO Pop HD
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxnqzfnP/hbo.jpg" group-title="100 | HBO HD",HBO (LATAM)
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0PDnYRj/hbo2-v.jpg" group-title="100 | HBO HD",HBO | 2 (LATAM)
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5jJtpw1/hbo-plusx.jpg" group-title="100 | HBO HD",HBO | Plus (LATAM)
-http://corgol.com@45.228.234.30:16000/play/a00a
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/28vQQTb8/hbo-mundi.jpg" group-title="100 | HBO HD",HBO | Mundi (LATAM)
-http://190.11.225.124:5000/live/paramount_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNh92TC8/hbo-signature.jpg" group-title="100 | HBO HD",HBO | Signature (LATAM)
-http://190.11.225.124:5000/live/hbo_signature_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/prRkRR6N/hbo-xtreme.jpg" group-title="100 | HBO HD",HBO | Xtreme (LATAM)
-http://190.11.225.124:5000/live/hbo_xtreme_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZLSZRFj/hbo-family.jpg" group-title="100 | HBO HD",HBO | Family (LATAM)
-http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
 
 ############################
 # ⚽ 200 - DEPORTES (HD)
@@ -336,3 +319,76 @@ https://mcbold.mcgolive.com.uy/DSPORTS_1_HD/DSPORTS_1_HD_MC.isml/DSPORTS_1_HD.mp
 #KODIPROP:inputstream.adaptive.license_key=a7d72bde02424d6d9b6284badda21ee1:4589d54bef2eba8b402856e063cd258a
 https://mcbold.mcgolive.com.uy/DSPORTS_PLUS_HD/DSPORTS_PLUS_HD_MC.isml/DSPORTS_PLUS_HD.mpd
 
+#EXTM3U
+
+#EXTINF:-1 group-title="radios" tvg-logo="",0 N - Classic Rock on Radio
+https://0n-classicrock.radionetz.de/0n-classicrock.aac
+
+#EXTINF:-1 group-title="radios" tvg-logo="",0 N - Rock on Radio
+https://0n-rock.radionetz.de/0n-rock.aac
+
+#EXTINF:-1 group-title="radios" tvg-logo="",0 N - Soft Rock on Radio
+https://0n-softrock.radionetz.de/0n-softrock.mp3
+
+#EXTINF:-1 group-title="radios" tvg-logo="https://www.970universal.com/wp-content/uploads/2020/07/logo-970.png",970 Universal
+https://970universal-3.nty.uy/
+
+#EXTINF:-1 group-title="radios" tvg-logo="",[laut.fm] Prog Rock Station
+http://prog-rock-station.stream.laut.fm/prog-rock-station?t302=2022-10-22_02-21-29&uuid=872d44bd-0ffa-406d-ad68-894364237a41
+
+#EXTINF:-1 group-title="radios" tvg-logo="https://www.am750.com.ar/favicon.ico",AM 750 Objetivos, pero no imparciales
+https://27433.live.streamtheworld.com/AM750AAC.aac?dist=triton-widget
+
+#EXTINF:-1 group-title="radios" tvg-logo="",Babel
+https://radios.iwstreaming.uy/8030/stream
+
+#EXTINF:-1 group-title="radios" tvg-logo="",Clásica 650 AM
+https://radios.iwstreaming.uy/8032/stream
+
+#EXTINF:-1 group-title="radios" tvg-logo="",CX 40 Radio Fenix
+https://sp3.servidorrprivado.com/8070/;
+
+#EXTINF:-1 group-title="radios" tvg-logo="",CX12 Radio Oriental 770 AM
+http://radiolatina.live:7906/1
+
+#EXTINF:-1 group-title="radios" tvg-logo="https://delsol.uy/favicon.ico",DelSol 99.5 FM
+http://radio1.dl.uy:9950/?type=http&nocache=2780
+
+#EXTINF:-1 group-title="radios" tvg-logo="",FM La Tribu 88.5 Buenos Aires
+https://radio01.ferozo.com/proxy/ra01000659?mp=/stream
+
+#EXTINF:-1 group-title="radios" tvg-logo="",La Isla Radio Online Del Uruguay
+http://lirodu.zapto.org:8000/laislaradio
+
+#EXTINF:-1 group-title="radios" tvg-logo="",Radio Carve
+http://radiolatina.live:9202/stream/1/
+
+#EXTINF:-1 group-title="radios" tvg-logo="",Del Sur
+https://radios.iwstreaming.uy/8034/stream
+
+#EXTINF:-1 group-title="radios" tvg-logo="",Radio La Zurda
+https://radios.solumedia.com:6270/stream
+
+#EXTINF:-1 group-title="radios" tvg-logo="",Radio Mundo
+http://stream.radiomundo.uy:8000/2.mp4
+
+#EXTINF:-1 group-title="radios" tvg-logo="",Radio Pedal
+https://streaming1.hostingmontevideo.com:7003/stream.mp3
+
+#EXTINF:-1 group-title="radios" tvg-logo="",Radio Uruguay
+https://radios.iwstreaming.uy/8036/stream
+
+#EXTINF:-1 group-title="radios" tvg-logo="",UNI Radio 89.1
+http://uniradio.edu.uy:8008/uniradio
+
+#EXTINF:-1 group-title="radios" tvg-logo="",Vilardevoz
+https://stream.codigosur.org/RadioVilardevoz.ogg
+
+#EXTINF:-1 group-title="radios" tvg-logo="",Sarandí 690
+https://alba-uy-sarandi-sarandi.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 group-title="radios" tvg-logo="",La Diaria Radio
+https://stream.radio.co/se91f453a2/listen
+
+#EXTINF:-1 group-title="radios" tvg-logo="",Cauces FM 89.1
+https://streaming.radiosenlinea.com.ar/8870/stream
