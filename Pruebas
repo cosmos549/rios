@@ -86,9 +86,15 @@ https://tinyurl.com/dsportsgo2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mundial 2026", DAZN
 https://tinyurl.com/daznsportstv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mundial 2026",
+#EXTINF:-1 tvg-id="" tvg-name="https://i.imgur.com/GBBCLJo.png" tvg-logo="" group-title="Mundial 2026", FOX | FIFA FHD 60
+https://box.djdoolky76.net/stream/udptv/foxfifafhd/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mundial 2026", 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mundial 2026", 
 
