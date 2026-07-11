@@ -325,6 +325,19 @@ https://mcbold.mcgolive.com.uy/DSPORTS_1_HD/DSPORTS_1_HD_MC.isml/DSPORTS_1_HD.mp
 #KODIPROP:inputstream.adaptive.license_key=4d777ae8e36ed91467eb1697d4ce4b39:0b382b1b00d7c50e2b57bfea2e23b6d8
 https://edge5078.telecentro.net.ar/bpk-token/1ab@vxud3wkusou1knwy3neywjh0nv3f3ixvv5j2pqca/HISTORY/HISTORY.isml/manifest.mpd?bkm-query
 
+#EXTINF:-1 tvg-id="DSPORTS_UY" group-title="prueba",DSPORTS UY
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://api.argentinatv.live/verimatrixkbx/ddeb54ebd5fc50fefab2901156fe9051.json
+#EXTVLCOPT:http-origin=https://android_mobile.directvgo.com
+#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
+https://1062-aws-da-mt.vrioott.com/1062_DIRECTV_SPORTS_URU_DASH/manifest.mpd
+
+#EXTINF:-1 group-title="prueba" tvg-logo="", Amazon FOX 4K 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+
 #EXTINF:-1 group-title="1000 | Uruguay" tvg-logo="", DSports + 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7d72bde02424d6d9b6284badda21ee1:4589d54bef2eba8b402856e063cd258a
