@@ -320,6 +320,11 @@ https://mcbold.mcgolive.com.uy/HBO_PLUS/HBO_PLUS_MC.isml/HBO_PLUS_MC.mpd
 #KODIPROP:inputstream.adaptive.license_key=c0bbfc1d5cf143f9bb0042c2be9c4a4c:f95925007220fea249038ac6523c5c7b
 https://mcbold.mcgolive.com.uy/DSPORTS_1_HD/DSPORTS_1_HD_MC.isml/DSPORTS_1_HD.mpd
 
+#EXTINF:-1 group-title="prueba" tvg-logo="", History 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d777ae8e36ed91467eb1697d4ce4b39:0b382b1b00d7c50e2b57bfea2e23b6d8
+https://edge5078.telecentro.net.ar/bpk-token/1ab@vxud3wkusou1knwy3neywjh0nv3f3ixvv5j2pqca/HISTORY/HISTORY.isml/manifest.mpd?bkm-query
+
 #EXTINF:-1 group-title="1000 | Uruguay" tvg-logo="", DSports + 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7d72bde02424d6d9b6284badda21ee1:4589d54bef2eba8b402856e063cd258a
