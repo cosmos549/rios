@@ -86,10 +86,7 @@ https://tinyurl.com/dsportsgo2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mundial 2026", DAZN
 https://tinyurl.com/daznsportstv
 
-#EXTINF:-1 tvg-id="" tvg-name="https://i.imgur.com/GBBCLJo.png" tvg-logo="" group-title="Mundial 2026", FOX | FIFA FHD 60
-https://box.djdoolky76.net/stream/udptv/foxfifafhd/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mundial 2026", 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mundial 2026", FIFA+ Mundial
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -98,9 +95,10 @@ https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.m
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Mundial 2026", 
 
-#EXTINF:-1 tvg-logo="" group-title="Mundial 2026", FOX ONE 4K
+#EXTINF:-1 tvg-logo="" group-title="Mundial 2026", Amazon FOX 4K 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="La 1 4K" tvg-logo="https://195.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/195/entry_id/04eb8836b95845a59887c8d94a0b810b/version/7/width/120/height/75/quality/100" catchup-type="default" catchup-source="http://vfott2cdn.gb.vodafone.es/sdash/LIVE$CUP001_UHD/2.mpd/Manifest.mpd?start={start_iso}&end={end_iso}&device=DASH_XDSL_SSP_ENC_LIVE" catchup-days="7" group-title="Mundial 2026",LA 1 UHD
 
@@ -119,7 +117,7 @@ https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a
 #KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
 https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png" group-title="Paramount+",DSports 60fps
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png" group-title="Paramount+",DSports Colombia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
@@ -314,34 +312,6 @@ https://mcbold.mcgolive.com.uy/HBO_2/HBO_2_MC.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=867ee2aab8fe40e393dcf741978b9f95:4ea0fc620e888b0cc8a9c3a80034676f
 https://mcbold.mcgolive.com.uy/HBO_PLUS/HBO_PLUS_MC.isml/HBO_PLUS_MC.mpd
-
-#EXTINF:-1 group-title="1000 | Uruguay" tvg-logo="", DSports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0bbfc1d5cf143f9bb0042c2be9c4a4c:f95925007220fea249038ac6523c5c7b
-https://mcbold.mcgolive.com.uy/DSPORTS_1_HD/DSPORTS_1_HD_MC.isml/DSPORTS_1_HD.mpd
-
-#EXTINF:-1 group-title="prueba" tvg-logo="", History 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d777ae8e36ed91467eb1697d4ce4b39:0b382b1b00d7c50e2b57bfea2e23b6d8
-https://edge5078.telecentro.net.ar/bpk-token/1ab@vxud3wkusou1knwy3neywjh0nv3f3ixvv5j2pqca/HISTORY/HISTORY.isml/manifest.mpd?bkm-query
-
-#EXTINF:-1 tvg-id="DSPORTS_UY" group-title="prueba",DSPORTS UY
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://api.argentinatv.live/verimatrixkbx/ddeb54ebd5fc50fefab2901156fe9051.json
-#EXTVLCOPT:http-origin=https://android_mobile.directvgo.com
-#EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
-https://1062-aws-da-mt.vrioott.com/1062_DIRECTV_SPORTS_URU_DASH/manifest.mpd
-
-#EXTINF:-1 group-title="prueba" tvg-logo="", Amazon FOX 4K 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-
-#EXTINF:-1 group-title="1000 | Uruguay" tvg-logo="", DSports + 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7d72bde02424d6d9b6284badda21ee1:4589d54bef2eba8b402856e063cd258a
-https://mcbold.mcgolive.com.uy/DSPORTS_PLUS_HD/DSPORTS_PLUS_HD_MC.isml/DSPORTS_PLUS_HD.mpd
 
 #EXTM3U
 
