@@ -17,6 +17,7 @@
 #EXTINF:-1 tvg-id="hboxtreme.es" group-title="100 | HBO HD",106 HBO Xtreme HD
 
 #EXTINF:-1 tvg-id="hbomundi.es" group-title="100 | HBO HD",107 HBO Mundi HD
+http://38.194.226.190:8000/play/a01h/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="hbopop.es" group-title="100 | HBO HD",108 HBO Pop HD
 
@@ -141,6 +142,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1
 #EXTINF:-1 tvg-id="sonymovies" group-title="400 | Películas",401 Sony Movies
 
 #EXTINF:-1 tvg-id="filmartstv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Film_%26_Arts_logo.png" group-title="400 | Películas",407 Film&Arts
+http://24.152.42.29:8000/play/a06l/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/TCM_logo.svg" group-title="400 | Películas",402 TCM
 
@@ -386,3 +388,697 @@ https://stream.radio.co/se91f453a2/listen
 
 #EXTINF:-1 group-title="radios" tvg-logo="",Cauces FM 89.1
 https://streaming.radiosenlinea.com.ar/8870/stream
+
+
+#EXTM3U
+#EXTINF:11 group-title="Mexico",CDMX IPTV OTT PRISMA A&E 211
+http://38.194.226.190:8000/play/a01c/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",ABC
+http://38.194.226.190:8000/play/a020/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",ADN 40 1
+http://38.194.226.190:8000/play/a03g/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",AYM SPORT
+http://38.194.226.190:8000/play/a00z/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",AZ CLICK
+http://38.194.226.190:8000/play/a022/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",AZTECA 7
+http://38.194.226.190:8000/play/a017/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",AZTECA CINEMA
+http://38.194.226.190:8000/play/a01g/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",AZTECA CORAZON
+http://38.194.226.190:8000/play/a026/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",AZTECA DEPORTES
+http://38.194.226.190:8000/play/a02r/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",AZTECA UNO
+http://38.194.226.190:8000/play/a01e/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",BABY TV
+http://38.194.226.190:8000/play/a00w/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",CANAL 5
+http://38.194.226.190:8000/play/a02e/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",CANAL DE LAS ESTRELLAS
+http://38.194.226.190:8000/play/a01j/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",CARACOL TV
+http://38.194.226.190:8000/play/a027/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",CARTOON
+http://38.194.226.190:8000/play/a00e/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",CBC Sports
+http://38.194.226.190:8000/play/a02v/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",CBS 1
+http://38.194.226.190:8000/play/a03b/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",CINECANAL
+http://38.194.226.190:8000/play/a01r/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",CINEMAX
+http://38.194.226.190:8000/play/a02j/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",CNN ESPAOL
+http://38.194.226.190:8000/play/a00v/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",CombaTV 1
+http://38.194.226.190:8000/play/a030/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",DISCOVERY CHANNEL
+http://38.194.226.190:8000/play/a01z/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",DISCOVERY H&H
+http://38.194.226.190:8000/play/a01x/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",DISCOVERY KIDS
+http://38.194.226.190:8000/play/a01y/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",DISCOVERY SCIENCE
+http://38.194.226.190:8000/play/a00r/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",DISCOVERY THEATER
+http://38.194.226.190:8000/play/a01p/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",DISCOVERY WORLD
+http://38.194.226.190:8000/play/a01o/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",DISNEY CHANNEL
+http://38.194.226.190:8000/play/a02b/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",DISNEY JR
+http://38.194.226.190:8000/play/a02a/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",DuckTV 1
+http://38.194.226.190:8000/play/a037/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",E! Entertainment Television
+http://38.194.226.190:8000/play/a02p/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",EL GARAGE TV
+http://38.194.226.190:8000/play/a02c/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",EL GOURMET
+http://38.194.226.190:8000/play/a02d/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",ESPN
+http://38.194.226.190:8000/play/a01v/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",ESPN +
+http://38.194.226.190:8000/play/a01m/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",ESPN 2
+http://38.194.226.190:8000/play/a01w/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",ESPN 3
+http://38.194.226.190:8000/play/a002/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",ESPN 4
+http://38.194.226.190:8000/play/a02x/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",Euro News Espaol 1
+http://38.194.226.190:8000/play/a035/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",FILM & ARTS
+http://38.194.226.190:8000/play/a00q/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",FORO TV
+http://38.194.226.190:8000/play/a018/index.m3u8?hls
+#EXTINF:11 group-title="Mexico",689 WSVN (WUTV FOX HD)
+http://38.194.226.190:8000/play/a02n/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",FOX NEWS
+http://38.194.226.190:8000/play/a01k/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",FOX NY 1
+http://38.194.226.190:8000/play/a03a/index.m3u8?hls
+#EXTINF:11 group-title="Mexico",FOX ONE
+http://38.194.226.190:8000/play/a00o/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",FOX SPORT
+http://38.194.226.190:8000/play/a00h/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",FOX SPORT 2
+http://38.194.226.190:8000/play/a011/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",FOX SPORT 3
+http://38.194.226.190:8000/play/a02m/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",FOX SPORT PREMIUM
+http://38.194.226.190:8000/play/a003/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",FX
+http://38.194.226.190:8000/play/a010/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",HBO
+http://38.194.226.190:8000/play/a02g/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",HBO +
+http://38.194.226.190:8000/play/a02l/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",HBO 2
+http://38.194.226.190:8000/play/a02h/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",HBO FAMILY
+http://38.194.226.190:8000/play/a029/index.m3u8?hls
+#EXTINF:11 group-title="Mexico",407_HBO_MUNDI_MTY
+http://38.194.226.190:8000/play/a01h/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",HBO POP 
+http://38.194.226.190:8000/play/a01t/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",HBO SIGNATURE
+http://38.194.226.190:8000/play/a028/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",HBO XTREME
+http://38.194.226.190:8000/play/a02f/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",HISTORY CHANNEL
+http://38.194.226.190:8000/play/a01a/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",HOLA TV
+http://38.194.226.190:8000/play/a023/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",INTI 1
+http://38.194.226.190:8000/play/a034/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",ITV Deportes 1
+http://38.194.226.190:8000/play/a033/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",Kidoo 1
+http://38.194.226.190:8000/play/a036/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",LIFE TIME TP
+http://38.194.226.190:8000/play/a02k/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",Love Nature 1
+http://38.194.226.190:8000/play/a039/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",MARIAVISION
+http://38.194.226.190:8000/play/a02y/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",MILENIO
+http://38.194.226.190:8000/play/a009/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",MeTV HD
+http://38.194.226.190:8000/play/a02w/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",Mexico al Aire Libre
+http://38.194.226.190:8000/play/a038/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",NBA  
+http://38.194.226.190:8000/play/a001/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",NFL 
+http://38.194.226.190:8000/play/a00y/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",NICK JR
+http://38.194.226.190:8000/play/a01u/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",OUTDOOR
+http://38.194.226.190:8000/play/a024/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",PBS miami HD 1
+http://38.194.226.190:8000/play/a03c/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",POPCORN CENTRAL
+http://38.194.226.190:8000/play/a00n/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",Rai News24 1
+http://38.194.226.190:8000/play/a032/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",SONY
+http://38.194.226.190:8000/play/a01b/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",SPACE
+http://38.194.226.190:8000/play/a01s/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",STAR CHANNEL
+http://38.194.226.190:8000/play/a01n/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",Show Business 1
+http://38.194.226.190:8000/play/a031/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",Syfy
+http://38.194.226.190:8000/play/a02z/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",TELEMUNDO INTERNACIONAL
+http://38.194.226.190:8000/play/a012/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",TELERITMO
+http://38.194.226.190:8000/play/a00m/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",TNT
+http://38.194.226.190:8000/play/a01f/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",TNT NOVELAS
+http://38.194.226.190:8000/play/a00t/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",TNT SERIES
+http://38.194.226.190:8000/play/a02i/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",TOONCAST
+http://38.194.226.190:8000/play/a00u/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",UNIVERSAL CHANNEL
+http://38.194.226.190:8000/play/a01d/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",UNIVERSAL CINEMA
+http://38.194.226.190:8000/play/a007/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",UNIVERSAL COMEDY
+http://38.194.226.190:8000/play/a006/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",UNIVERSAL CRIME
+http://38.194.226.190:8000/play/a005/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",UNIVERSAL PREMIER
+http://38.194.226.190:8000/play/a008/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",UNIVERSAL REALITY
+http://38.194.226.190:8000/play/a004/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",UNIVERSAL STUDIO
+http://38.194.226.190:8000/play/a02o/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",VSIN 1
+http://38.194.226.190:8000/play/a03e/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",WNLO CW HD 1
+http://38.194.226.190:8000/play/a03d/index.m3u8?hls
+#EXTINF:0 group-title="Mexico",WOBI
+http://38.194.226.190:8000/play/a019/index.m3u8?hls
+
+
+#EXTM3U
+#EXTINF:-1 group-title="Paraguay",4DMAS TV
+http://24.152.42.29:8000/play/a02n/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",A LA COCINA HD CA
+http://24.152.42.29:8000/play/a089/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",A&E HD CA
+http://24.152.42.29:8000/play/a06x/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",A24 HD CA
+http://24.152.42.29:8000/play/a06m/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",ADULT SWIM HD CA
+http://24.152.42.29:8000/play/a07j/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",AE Mundo
+http://24.152.42.29:8000/play/a0c0/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",AGR C 7 Curuguaty
+http://24.152.42.29:8000/play/a034/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",AM Sport
+http://24.152.42.29:8000/play/a0ah/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",AMC HD CA
+http://24.152.42.29:8000/play/a08e/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",AMC SERIES HD CA
+http://24.152.42.29:8000/play/a06r/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",AMERICA HD CA
+http://24.152.42.29:8000/play/a08f/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",ATRES SERIES HD CA
+http://24.152.42.29:8000/play/a06t/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",AXN HD CA
+http://24.152.42.29:8000/play/a06z/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Almaya
+http://24.152.42.29:8000/play/a098/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",America TV Py
+http://24.152.42.29:8000/play/a01p/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Animal Planet
+http://24.152.42.29:8000/play/a09v/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Antena 3
+http://24.152.42.29:8000/play/a0bn/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Baby First
+http://24.152.42.29:8000/play/a01k/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",C9N
+http://24.152.42.29:8000/play/a030/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",C9N HD
+http://24.152.42.29:8000/play/a02d/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",CANAL 5 DIAS HD CA
+http://24.152.42.29:8000/play/a085/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",CANAL PRO
+http://24.152.42.29:8000/play/a02k/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",CINE FAMILIAR HD CA
+http://24.152.42.29:8000/play/a05a/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",CINE HISPANO HD CA
+http://24.152.42.29:8000/play/a058/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",CINE PREMIUM HD CA
+http://24.152.42.29:8000/play/a057/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",CINECANAL HD CA
+http://24.152.42.29:8000/play/a067/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",CINEMAX HD CA
+http://24.152.42.29:8000/play/a07n/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",CNN Espanol
+http://24.152.42.29:8000/play/a002/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",CNN HD CA
+http://24.152.42.29:8000/play/a080/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",COSMOS TV
+http://24.152.42.29:8000/play/a02q/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Canal 5 HD
+http://24.152.42.29:8000/play/a03e/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Canal Las Estrellas
+http://24.152.42.29:8000/play/a01c/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Canal Las Estrellas
+http://24.152.42.29:8000/play/a031/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Cartoon Network
+http://24.152.42.29:8000/play/a00j/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Cinecanal
+http://24.152.42.29:8000/play/a00d/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Cinemax
+http://24.152.42.29:8000/play/a01y/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",DISCOVERY CHANNEL HD CA
+http://24.152.42.29:8000/play/a05n/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",DISCOVERY TLC HD CA
+http://24.152.42.29:8000/play/a08g/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",DW AMERIKA HD CA
+http://24.152.42.29:8000/play/a08t/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Discovery Channel
+http://24.152.42.29:8000/play/a09z/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Discovery Kids
+http://24.152.42.29:8000/play/a001/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Discovery Turbo
+http://24.152.42.29:8000/play/a026/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Disney Channel
+http://24.152.42.29:8000/play/a00y/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Disney Jr
+http://24.152.42.29:8000/play/a007/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",E40
+http://24.152.42.29:8000/play/a03a/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",EDUCANAL HD CA
+http://24.152.42.29:8000/play/a06n/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",ENLACE HD
+http://24.152.42.29:8000/play/a02g/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",ESPN
+http://24.152.42.29:8000/play/a01u/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",ESPN
+http://24.152.42.29:8000/play/a015/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",ESPN 2
+http://24.152.42.29:8000/play/a009/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",ESPN 2
+http://24.152.42.29:8000/play/a014/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",ESPN 3
+http://24.152.42.29:8000/play/a027/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",ESPN 5
+http://24.152.42.29:8000/play/a01m/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",ESPN 6
+http://24.152.42.29:8000/play/a01e/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",ESPN 6 HD CA
+http://24.152.42.29:8000/play/a074/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",ESPN 7
+http://24.152.42.29:8000/play/a01d/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",ESPN 7 HD CA
+http://24.152.42.29:8000/play/a05k/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",EURONEWS HD CA
+http://24.152.42.29:8000/play/a06k/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",El Gourmet
+http://24.152.42.29:8000/play/a01n/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",El Trece
+http://24.152.42.29:8000/play/a0bm/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Esne
+http://24.152.42.29:8000/play/a0a7/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",FARRA HD CA
+http://24.152.42.29:8000/play/a06a/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",FILM & ARTS HD CA
+http://24.152.42.29:8000/play/a06l/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",FX
+http://24.152.42.29:8000/play/a022/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",FX HD CA
+http://24.152.42.29:8000/play/a07p/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",GEN HD PY
+http://24.152.42.29:8000/play/a02f/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",GUAIRA TV
+http://24.152.42.29:8000/play/a02m/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",HEI HD CA
+http://24.152.42.29:8000/play/a084/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",HGTv
+http://24.152.42.29:8000/play/a0ap/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",HISTORY HD CA
+http://24.152.42.29:8000/play/a071/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",HOLA TV HD CA
+http://24.152.42.29:8000/play/a07k/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",HOME AND HEALTH HD CA
+http://24.152.42.29:8000/play/a082/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",HTV
+http://24.152.42.29:8000/play/a07z/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",History Channel
+http://24.152.42.29:8000/play/a09y/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Home and Health
+http://24.152.42.29:8000/play/a01j/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",ID HD CA
+http://24.152.42.29:8000/play/a079/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",La Tele
+http://24.152.42.29:8000/play/a028/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Lifetime
+http://24.152.42.29:8000/play/a00p/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Love Nature
+http://24.152.42.29:8000/play/a0bw/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",MEGA TV
+http://24.152.42.29:8000/play/a02j/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",MITV 
+http://24.152.42.29:8000/play/a02p/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",MTV
+http://24.152.42.29:8000/play/a00f/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",MULTIPREMIER HD CA
+http://24.152.42.29:8000/play/a06v/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Motor Sur
+http://24.152.42.29:8000/play/a08z/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",N+ HD CA
+http://24.152.42.29:8000/play/a08u/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",NAT GEO HD CA
+http://24.152.42.29:8000/play/a05l/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",NPY
+http://24.152.42.29:8000/play/a01v/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",National Geographic
+http://24.152.42.29:8000/play/a09x/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Nick Jr
+http://24.152.42.29:8000/play/a025/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Nickelodeon
+http://24.152.42.29:8000/play/a00a/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",PARAVISION
+http://24.152.42.29:8000/play/a01s/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",PLAYBOY
+http://24.152.42.29:8000/play/a02z/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",POPU TV SRT
+http://24.152.42.29:8000/play/a09l/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",ParaguayTV
+http://24.152.42.29:8000/play/a01q/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",PopuTv
+http://24.152.42.29:8000/play/a08v/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",RADIO NOVA FM
+http://24.152.42.29:8000/play/a02y/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",RCC HD CA
+http://24.152.42.29:8000/play/a086/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",RCN Novelas
+http://24.152.42.29:8000/play/a01g/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",RECORD TV
+http://24.152.42.29:8000/play/a0aa/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",RPC 13 HD opc 1
+http://24.152.42.29:8000/play/a03r/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",RT Noticias
+http://24.152.42.29:8000/play/a09s/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Radio Caritas Tv
+http://24.152.42.29:8000/play/a02x/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Republica 101.3 FM
+http://24.152.42.29:8000/play/a033/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",SBT
+http://24.152.42.29:8000/play/a0ab/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",SNT HD
+http://24.152.42.29:8000/play/a02b/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",SNT HD
+http://24.152.42.29:8000/play/a0bq/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",SONY HD CA
+http://24.152.42.29:8000/play/a06y/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",SPACE HD CA
+http://24.152.42.29:8000/play/a07i/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",SPORTV BR.
+http://24.152.42.29:8000/play/a018/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",STAR CHANNEL HD CA
+http://24.152.42.29:8000/play/a06j/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",SURTV
+http://24.152.42.29:8000/play/a01w/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Sextreme
+http://24.152.42.29:8000/play/a0c2/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Sin Limites
+http://24.152.42.29:8000/play/a01o/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Space
+http://24.152.42.29:8000/play/a021/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Studio Universal
+http://24.152.42.29:8000/play/a008/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",TCM
+http://24.152.42.29:8000/play/a00i/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",TELEMUNDO HD CA
+http://24.152.42.29:8000/play/a07e/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",TELEVISA - GOLDEN EDGE
+http://24.152.42.29:8000/play/a0b9/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",TELEVISA -UNIVISION
+http://24.152.42.29:8000/play/a0ba/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",TLC
+http://24.152.42.29:8000/play/a01a/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",TNT
+http://24.152.42.29:8000/play/a00k/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",TNT HD CA
+http://24.152.42.29:8000/play/a07h/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",TNT NOVELAS HD CA
+http://24.152.42.29:8000/play/a072/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",TNT SERIES HD CA
+http://24.152.42.29:8000/play/a07o/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",TV CAMARA
+http://24.152.42.29:8000/play/a02a/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",TV GLOBO HD CA
+http://24.152.42.29:8000/play/a08s/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",TV5 HD CA
+http://24.152.42.29:8000/play/a088/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",TVA C.O
+http://24.152.42.29:8000/play/a02s/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",TVE
+http://24.152.42.29:8000/play/a00n/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Telefe
+http://24.152.42.29:8000/play/a023/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Telefuturo
+http://24.152.42.29:8000/play/a00m/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Telefuturo HD
+http://24.152.42.29:8000/play/a0br/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Telemundo
+http://24.152.42.29:8000/play/a01f/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Tv Canindeyu
+http://24.152.42.29:8000/play/a091/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",TyC
+http://24.152.42.29:8000/play/a017/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",UNION TV
+http://24.152.42.29:8000/play/a02l/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",UNIVERSAL HD CA
+http://24.152.42.29:8000/play/a08a/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",USA SD
+http://24.152.42.29:8000/play/a00q/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Unicanal HD
+http://24.152.42.29:8000/play/a02w/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Unicanal HD
+http://24.152.42.29:8000/play/a01l/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Universal
+http://24.152.42.29:8000/play/a00e/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Universal Cinema SD
+http://24.152.42.29:8000/play/a00c/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Universal Comedy SD
+http://24.152.42.29:8000/play/a00x/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Universal Premiere SD
+http://24.152.42.29:8000/play/a00b/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",VENUS MEDIA HD CA
+http://24.152.42.29:8000/play/a069/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Venus
+http://24.152.42.29:8000/play/a019/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",ViaX
+http://24.152.42.29:8000/play/a01b/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",WARNER HD CA
+http://24.152.42.29:8000/play/a070/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",Zona Latina
+http://24.152.42.29:8000/play/a00g/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",ÑANDEJARA ÑE`E HD CA
+http://24.152.42.29:8000/play/a08r/index.m3u8?hls
+#EXTINF:-1 group-title="Paraguay",ÑANDUTI
+http://24.152.42.29:8000/play/a093/index.m3u8?hls
+
+#EXTM3U
+#EXTINF:-1 group-title="Argentina",26TV
+http://181.233.180.4:8000/play/a01r/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",A&E HD
+http://181.233.180.4:8000/play/a05i/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",A24
+http://181.233.180.4:8000/play/a01o/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",AM Sports
+http://181.233.180.4:8000/play/a01v/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",AMC
+http://181.233.180.4:8000/play/a01z/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",AXN HD
+http://181.233.180.4:8000/play/a05f/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Adult swim HD
+http://181.233.180.4:8000/play/a0dd/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",America TV HD
+http://181.233.180.4:8000/play/a055/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Baby TV
+http://181.233.180.4:8000/play/a02e/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",C5N
+http://181.233.180.4:8000/play/a01p/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",CNN en Espaæol
+http://181.233.180.4:8000/play/a054/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Canal a
+http://181.233.180.4:8000/play/a09j/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Canal de la Ciudad
+http://181.233.180.4:8000/play/a06e/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Cartoon Network HD
+http://181.233.180.4:8000/play/a075/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Cine.AR
+http://181.233.180.4:8000/play/a024/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Cinecanal HD
+http://181.233.180.4:8000/play/a07b/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Cinemax
+http://181.233.180.4:8000/play/a04s/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Comedy Central HD
+http://181.233.180.4:8000/play/a02x/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Cronica
+http://181.233.180.4:8000/play/a01q/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",DSports 2 HD
+http://181.233.180.4:8000/play/a0fc/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",DSports HD
+http://181.233.180.4:8000/play/a0fd/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Discovery Channel HD
+http://181.233.180.4:8000/play/a07i/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Discovery H&H HD
+http://181.233.180.4:8000/play/a07h/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Discovery Kids
+http://181.233.180.4:8000/play/a06t/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Discovery Science
+http://181.233.180.4:8000/play/a02k/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Discovery Theater HD
+http://181.233.180.4:8000/play/a02z/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Discovery Turbo
+http://181.233.180.4:8000/play/a01w/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Discovery World HD
+http://181.233.180.4:8000/play/a031/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Disney Channel HD
+http://181.233.180.4:8000/play/a02r/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Disney Junior
+http://181.233.180.4:8000/play/a04y/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",ESPN 2 HD
+http://181.233.180.4:8000/play/a059/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",ESPN 3 HD
+http://181.233.180.4:8000/play/a05b/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",ESPN 4 HD
+http://181.233.180.4:8000/play/a076/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",ESPN HD
+http://181.233.180.4:8000/play/a05a/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",ESPN Premium HD
+http://181.233.180.4:8000/play/a078/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",El Canal  de las Estrellas
+http://181.233.180.4:8000/play/a06z/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",El Gourmet
+http://181.233.180.4:8000/play/a06w/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Encuentro
+http://181.233.180.4:8000/play/a01m/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Europa Europa
+http://181.233.180.4:8000/play/a06v/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",FX HD
+http://181.233.180.4:8000/play/a02v/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Film & Arts HD
+http://181.233.180.4:8000/play/a030/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Fox Sports 2 HD
+http://181.233.180.4:8000/play/a05c/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Fox Sports 3 HD
+http://181.233.180.4:8000/play/a02t/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Fox Sports HD
+http://181.233.180.4:8000/play/a07j/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Galicia TV
+http://181.233.180.4:8000/play/a02q/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",HBO
+http://181.233.180.4:8000/play/a06o/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",HBO 2
+http://181.233.180.4:8000/play/a06q/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",HBO Family
+http://181.233.180.4:8000/play/a06r/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",HBO Mundi
+http://181.233.180.4:8000/play/a02a/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",HBO Plus
+http://181.233.180.4:8000/play/a06p/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",HBO Signature
+http://181.233.180.4:8000/play/a02c/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",HBO Xtreme
+http://181.233.180.4:8000/play/a02b/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",HGTV
+http://181.233.180.4:8000/play/a02j/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",HTV
+http://181.233.180.4:8000/play/a02o/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",History 2
+http://181.233.180.4:8000/play/a0ab/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",History Channel
+http://181.233.180.4:8000/play/a051/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",La Nacion TV
+http://181.233.180.4:8000/play/a01s/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Lifetime
+http://181.233.180.4:8000/play/a06n/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",MTV
+http://181.233.180.4:8000/play/a02m/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",MTV×00
+http://181.233.180.4:8000/play/a053/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Metro
+http://181.233.180.4:8000/play/a02g/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Nat Geo HD
+http://181.233.180.4:8000/play/a05g/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Nick Jr
+http://181.233.180.4:8000/play/a06u/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Nickelodeon
+http://181.233.180.4:8000/play/a04z/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Pakapaka
+http://181.233.180.4:8000/play/a01n/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Paramount HD
+http://181.233.180.4:8000/play/a02y/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Quiero Musica
+http://181.233.180.4:8000/play/a02n/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",RAI Italia
+http://181.233.180.4:8000/play/a02p/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",RT en Espaæol
+http://181.233.180.4:8000/play/a0ac/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Rural
+http://181.233.180.4:8000/play/a02f/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Sextreme
+http://181.233.180.4:8000/play/a034/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Sony HD
+http://181.233.180.4:8000/play/a05d/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Sony Movies HD
+http://181.233.180.4:8000/play/a05k/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Space HD
+http://181.233.180.4:8000/play/a02w/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Star Channel HD
+http://181.233.180.4:8000/play/a079/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Studio Universal
+http://181.233.180.4:8000/play/a022/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",TCM
+http://181.233.180.4:8000/play/a020/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",TLNovelas
+http://181.233.180.4:8000/play/a0f4/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",TN HD
+http://181.233.180.4:8000/play/a058/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",TNT HD
+http://181.233.180.4:8000/play/a07d/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",TNT Novelas HD
+http://181.233.180.4:8000/play/a07g/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",TNT Series HD
+http://181.233.180.4:8000/play/a07e/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",TNT Sports HD
+http://181.233.180.4:8000/play/a0bc/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",TV Publica HD
+http://181.233.180.4:8000/play/a0dg/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",TVE
+http://181.233.180.4:8000/play/a072/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Telefe HD
+http://181.233.180.4:8000/play/a06c/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",The History Channel HD
+http://181.233.180.4:8000/play/a05h/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",TyC Sports HD
+http://181.233.180.4:8000/play/a02s/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",USA Network
+http://181.233.180.4:8000/play/a023/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Universal HD
+http://181.233.180.4:8000/play/a05j/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Volver
+http://181.233.180.4:8000/play/a021/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",Warner Channel HD
+http://181.233.180.4:8000/play/a05e/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",ciudad magazine
+http://181.233.180.4:8000/play/a02h/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",el nueve HD
+http://181.233.180.4:8000/play/a04h/index.m3u8?hls
+#EXTINF:-1 group-title="Argentina",el trece HD
+http://181.233.180.4:8000/play/a0bg/index.m3u8?hls
