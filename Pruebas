@@ -4,23 +4,27 @@
 # 🎬 100 - HBO (HD)
 ############################
 #EXTINF:-1 tvg-id="hbo.es" group-title="100 | HBO HD",101 HBO HD
-
+http://181.79.80.181:7777/HBO/mpegts
 
 #EXTINF:-1 tvg-id="hbo2.es" group-title="100 | HBO HD",102 HBO 2 HD
+http://177.245.131.133:8080/HBO2/index.m3u8
 
 #EXTINF:-1 tvg-id="hboplus.es" group-title="100 | HBO HD",103 HBO Plus HD
+http://177.245.131.133:8080/HBOPLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="hbofamily.es" group-title="100 | HBO HD",104 HBO Family HD
+http://181.79.80.181:7777/HBOFAMILY/mpegts
 
 #EXTINF:-1 tvg-id="hbosignature.es" group-title="100 | HBO HD",105 HBO Signature HD
 
 #EXTINF:-1 tvg-id="hboxtreme.es" group-title="100 | HBO HD",106 HBO Xtreme HD
+http://181.78.137.227/HBO-XTREME-HD/mpegts
 
 #EXTINF:-1 tvg-id="hbomundi.es" group-title="100 | HBO HD",107 HBO Mundi HD
-http://38.194.226.190:8000/play/a01h/index.m3u8?hls
+http://181.78.137.227/HBO-MUNDI-HD/mpegts
 
 #EXTINF:-1 tvg-id="hbopop.es" group-title="100 | HBO HD",108 HBO Pop HD
-
+http://181.78.137.227/HBO-POP-HD/mpegts
 
 
 ############################
@@ -159,9 +163,10 @@ http://45.5.151.62:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="discovery" group-title="500 | Documentales",501 Discovery
 
 #EXTINF:-1 tvg-id="history" group-title="500 | Documentales",502 History
-http://45.5.151.62:8000/play/a024/index.m3u8
+http://177.234.249.178:8888/HISTORY/index.m3u8
 
 #EXTINF:-1 tvg-id="history2" group-title="500 | Documentales",503 History 2
+http://177.234.249.178:8888/HISTORY2/index.m3u8
 
 #EXTINF:-1 tvg-id="animalplanet" group-title="500 | Documentales",504 Animal Planet
 
@@ -1082,3 +1087,54 @@ http://181.233.180.4:8000/play/a02h/index.m3u8?hls
 http://181.233.180.4:8000/play/a04h/index.m3u8?hls
 #EXTINF:-1 group-title="Argentina",el trece HD
 http://181.233.180.4:8000/play/a0bg/index.m3u8?hls
+
+
+#EXTM3U
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/271" tvg-id="3e480500f63fd917c9b5b01d42ba5a75" tvg-chno="1",La 1 UHD
+http://81.22.41.234:9981/stream/channelid/346174?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/313" tvg-id="4c09d055999c14502e3d16d6168d47fe" tvg-chno="2",La 2 HD
+http://81.22.41.234:9981/stream/channelid/1439697228?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/274" tvg-id="c093e90831c2f8609f1df56124190ede" tvg-chno="3",Antena 3
+http://81.22.41.234:9981/stream/channelid/149525440?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/286" tvg-id="f61ace9e1cf5087e46bf053cf94343ed" tvg-chno="4",Cuatro HD
+http://81.22.41.234:9981/stream/channelid/516823798?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/276" tvg-id="36d6828b0fa27f8f814d9875202ecdd2" tvg-chno="5",Telecinco HD
+http://81.22.41.234:9981/stream/channelid/193123894?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/297" tvg-id="74f6523643bdbc069881f3348f02a2e9" tvg-chno="6",laSexta
+http://81.22.41.234:9981/stream/channelid/911406708?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/306" tvg-id="8336694aeacea252878169b117f240e2" tvg-chno="8",TVG HD Ourense
+http://81.22.41.234:9981/stream/channelid/1248409219?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/329" tvg-id="0c05937cb79b612c205352f91a24519e" tvg-chno="9",TVG UHD
+http://81.22.41.234:9981/stream/channelid/2090009868?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/279" tvg-id="0904a711ff81d8d263fd5b2b8bb712ea" tvg-chno="10",tvG2 HD
+http://81.22.41.234:9981/stream/channelid/296158217?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/318" tvg-id="c269cc60cca1baf1a20f0f127296c3d4" tvg-chno="16",nova
+http://81.22.41.234:9981/stream/channelid/1624009154?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/283" tvg-id="f3c74e1a9ed20faa3996c23e4957ee08" tvg-chno="17",neox
+http://81.22.41.234:9981/stream/channelid/441370611?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/315" tvg-id="1df1ba5db4fab92ec5b87a5f20ce475c" tvg-chno="18",Energy
+http://81.22.41.234:9981/stream/channelid/1572532509?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/320" tvg-id="83f653eaac21249eb5450b870be2570f" tvg-chno="19",BeMad tv HD
+http://81.22.41.234:9981/stream/channelid/1783887491?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/326" tvg-id="7e1c83f8b77ba2a740eb359712aa266d" tvg-chno="20",Clan HD
+http://81.22.41.234:9981/stream/channelid/2021858430?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/303" tvg-id="026023c23a5bb9c0fef5c59ca4afaf38" tvg-chno="21",Boing
+http://81.22.41.234:9981/stream/channelid/1109614594?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/309" tvg-id="ba9e61d24bb85a5dd6cb487fcea2c5d9" tvg-chno="22",MEGA
+http://81.22.41.234:9981/stream/channelid/1382129338?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/277" tvg-id="b470bb8f38eeb12939e6ae87776f301d" tvg-chno="23",Divinity
+http://81.22.41.234:9981/stream/channelid/263942324?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/285" tvg-id="7900b51d835ac8bdc816c04acf617d54" tvg-chno="24",24h HD
+http://81.22.41.234:9981/stream/channelid/498401401?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/293" tvg-id="d3a34b30ed8229e274c52602086dc963" tvg-chno="25",TEN
+http://81.22.41.234:9981/stream/channelid/810263507?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/292" tvg-id="5ecb7caf24f238c982f5faf5455acd58" tvg-chno="26",tdp HD
+http://81.22.41.234:9981/stream/channelid/796707678?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/278" tvg-id="bd6c92114e10d6553baf61158c36fd47" tvg-chno="27",DMAX
+http://81.22.41.234:9981/stream/channelid/294808765?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/310" tvg-id="94e3fc5312c3d76ac211fb9ccaacc3e2" tvg-chno="28",Realmadrid TV HD
+http://81.22.41.234:9981/stream/channelid/1409082260?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/323" tvg-id="88b0a37041579f7117902193569e15c2" tvg-chno="29",A3Series
+http://81.22.41.234:9981/stream/channelid/1889775752?profile=pass
+#EXTINF:-1 group-title="España" tvg-logo="http://81.22.41.234:9981/imagecache/309" tvg-id="9ed3976f3db6a9de8bb1b595e39326b7" tvg-chno="30",MEGA
+http://81.22.41.234:9981/stream/channelid/1872221086?profile=pass
