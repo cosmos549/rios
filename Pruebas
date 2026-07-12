@@ -16,12 +16,16 @@ http://177.245.131.133:8080/HBOPLUS/index.m3u8
 http://181.79.80.181:7777/HBOFAMILY/mpegts
 
 #EXTINF:-1 tvg-id="hbosignature.es" group-title="100 | HBO HD",105 HBO Signature HD
+http://200.115.120.1:8000/play/ca139/index.m3u8
 
 #EXTINF:-1 tvg-id="hboxtreme.es" group-title="100 | HBO HD",106 HBO Xtreme HD
 http://181.78.137.227/HBO-XTREME-HD/mpegts
 
 #EXTINF:-1 tvg-id="hbomundi.es" group-title="100 | HBO HD",107 HBO Mundi HD
 http://181.78.137.227/HBO-MUNDI-HD/mpegts
+
+#EXTINF:-1 tvg-id="hbomundi.es" group-title="100 | HBO HD",107 HBO Mundi B HD
+http://200.115.120.1:8000/play/ca136/index.m3u8
 
 #EXTINF:-1 tvg-id="hbopop.es" group-title="100 | HBO HD",108 HBO Pop HD
 http://181.78.137.227/HBO-POP-HD/mpegts
@@ -148,6 +152,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1
 #EXTINF:-1 tvg-id="filmartstv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Film_%26_Arts_logo.png" group-title="400 | Películas",407 Film&Arts
 http://24.152.42.29:8000/play/a06l/index.m3u8?hls
 
+#EXTINF:-1 tvg-id="filmartstv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Film_%26_Arts_logo.png" group-title="400 | Películas",407 Film&Arts B
+http://200.115.120.1:8000/play/ca131/index.m3u8
+
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/TCM_logo.svg" group-title="400 | Películas",402 TCM
 
 #EXTINF:-1 tvg-id="DHE" tvg-name="DHE" tvg-logo="https://via.placeholder.com/300x150?text=DHE" group-title="400 | Películas",403 DHE
@@ -155,7 +162,7 @@ http://24.152.42.29:8000/play/a06l/index.m3u8?hls
 #EXTINF:-1 tvg-id="WESTERN" tvg-name="Western" tvg-logo="https://via.placeholder.com/300x150?text=Western" group-title="400 | Películas", 404 Western
 
 #EXTINF:-1 tvg-id="DHE" tvg-name="-" tvg-logo="-" group-title="400 | Películas",405 Europa Europa
-http://45.5.151.62:8000/play/a01g/index.m3u8
+http://200.115.120.1:8000/play/ca134/index.m3u8
 
 ############################
 # 📚 500 - DOCUMENTALES
