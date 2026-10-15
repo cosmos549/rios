@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/latam.xml,https://iptv-org.github.io/epg/guides/es.xml,https://iptv-org.github.io/epg/guides/us.xml"
 
+#EXTINF:-1 group-title="alternativos" tvg-logo="", CNCity
+https://envivo.cncity.live/hls/envivo.m3u8
+
 ############################
 # 🎬 100 - HBO (HD)
 ############################
